@@ -1,2557 +1,622 @@
-[
-  {
-    "tanggal": "2025-01-01",
-    "masa": "NATAL",
-    "quote": "Firman menjadi manusia. (Yoh 1:14)",
-    "refleksi": "Natal mengajak hidup sederhana dan membawa damai.",
-    "doa": "Yesus, ajari kami berbagi sukacita. Amin."
-  },
-  {
-    "tanggal": "2025-01-02",
-    "masa": "NATAL",
-    "quote": "Firman menjadi manusia. (Yoh 1:14)",
-    "refleksi": "Natal mengajak hidup sederhana dan membawa damai.",
-    "doa": "Yesus, ajari kami berbagi sukacita. Amin."
-  },
-  {
-    "tanggal": "2025-01-03",
-    "masa": "NATAL",
-    "quote": "Firman menjadi manusia. (Yoh 1:14)",
-    "refleksi": "Natal mengajak hidup sederhana dan membawa damai.",
-    "doa": "Yesus, ajari kami berbagi sukacita. Amin."
-  },
-  {
-    "tanggal": "2025-01-04",
-    "masa": "NATAL",
-    "quote": "Firman menjadi manusia. (Yoh 1:14)",
-    "refleksi": "Natal mengajak hidup sederhana dan membawa damai.",
-    "doa": "Yesus, ajari kami berbagi sukacita. Amin."
-  },
-  {
-    "tanggal": "2025-01-05",
-    "masa": "NATAL",
-    "quote": "Firman menjadi manusia. (Yoh 1:14)",
-    "refleksi": "Natal mengajak hidup sederhana dan membawa damai.",
-    "doa": "Yesus, ajari kami berbagi sukacita. Amin."
-  },
-  {
-    "tanggal": "2025-01-06",
-    "masa": "NATAL",
-    "quote": "Firman menjadi manusia. (Yoh 1:14)",
-    "refleksi": "Natal mengajak hidup sederhana dan membawa damai.",
-    "doa": "Yesus, ajari kami berbagi sukacita. Amin."
-  },
-  {
-    "tanggal": "2025-01-07",
-    "masa": "NATAL",
-    "quote": "Firman menjadi manusia. (Yoh 1:14)",
-    "refleksi": "Natal mengajak hidup sederhana dan membawa damai.",
-    "doa": "Yesus, ajari kami berbagi sukacita. Amin."
-  },
-  {
-    "tanggal": "2025-01-08",
-    "masa": "NATAL",
-    "quote": "Firman menjadi manusia. (Yoh 1:14)",
-    "refleksi": "Natal mengajak hidup sederhana dan membawa damai.",
-    "doa": "Yesus, ajari kami berbagi sukacita. Amin."
-  },
-  {
-    "tanggal": "2025-01-09",
-    "masa": "NATAL",
-    "quote": "Firman menjadi manusia. (Yoh 1:14)",
-    "refleksi": "Natal mengajak hidup sederhana dan membawa damai.",
-    "doa": "Yesus, ajari kami berbagi sukacita. Amin."
-  },
-  {
-    "tanggal": "2025-01-10",
-    "masa": "NATAL",
-    "quote": "Firman menjadi manusia. (Yoh 1:14)",
-    "refleksi": "Natal mengajak hidup sederhana dan membawa damai.",
-    "doa": "Yesus, ajari kami berbagi sukacita. Amin."
-  },
-  {
-    "tanggal": "2025-01-11",
-    "masa": "NATAL",
-    "quote": "Firman menjadi manusia. (Yoh 1:14)",
-    "refleksi": "Natal mengajak hidup sederhana dan membawa damai.",
-    "doa": "Yesus, ajari kami berbagi sukacita. Amin."
-  },
-  {
-    "tanggal": "2025-01-12",
-    "masa": "NATAL",
-    "quote": "Firman menjadi manusia. (Yoh 1:14)",
-    "refleksi": "Natal mengajak hidup sederhana dan membawa damai.",
-    "doa": "Yesus, ajari kami berbagi sukacita. Amin."
-  },
-  {
-    "tanggal": "2025-01-13",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-01-14",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-01-15",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-01-16",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-01-17",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-01-18",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-01-19",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-01-20",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-01-21",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-01-22",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-01-23",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-01-24",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-01-25",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-01-26",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-01-27",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-01-28",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-01-29",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-01-30",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-01-31",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-02-01",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-02-02",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-02-03",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-02-04",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-02-05",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-02-06",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-02-07",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-02-08",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-02-09",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-02-10",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-02-11",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-02-12",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-02-13",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-02-14",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-02-15",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-02-16",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-02-17",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-02-18",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-02-19",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-02-20",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-02-21",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-02-22",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-02-23",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-02-24",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-02-25",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-02-26",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-02-27",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-02-28",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-03-01",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-03-02",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-03-03",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-03-04",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-03-05",
-    "masa": "PRAPASKAH",
-    "quote": "Berubahlah. (Mrk 1:15)",
-    "refleksi": "Prapaskah adalah waktu memperbaiki diri dan jujur.",
-    "doa": "Tuhan, kuatkan kami untuk berubah. Amin."
-  },
-  {
-    "tanggal": "2025-03-06",
-    "masa": "PRAPASKAH",
-    "quote": "Berubahlah. (Mrk 1:15)",
-    "refleksi": "Prapaskah adalah waktu memperbaiki diri dan jujur.",
-    "doa": "Tuhan, kuatkan kami untuk berubah. Amin."
-  },
-  {
-    "tanggal": "2025-03-07",
-    "masa": "PRAPASKAH",
-    "quote": "Berubahlah. (Mrk 1:15)",
-    "refleksi": "Prapaskah adalah waktu memperbaiki diri dan jujur.",
-    "doa": "Tuhan, kuatkan kami untuk berubah. Amin."
-  },
-  {
-    "tanggal": "2025-03-08",
-    "masa": "PRAPASKAH",
-    "quote": "Berubahlah. (Mrk 1:15)",
-    "refleksi": "Prapaskah adalah waktu memperbaiki diri dan jujur.",
-    "doa": "Tuhan, kuatkan kami untuk berubah. Amin."
-  },
-  {
-    "tanggal": "2025-03-09",
-    "masa": "PRAPASKAH",
-    "quote": "Berubahlah. (Mrk 1:15)",
-    "refleksi": "Prapaskah adalah waktu memperbaiki diri dan jujur.",
-    "doa": "Tuhan, kuatkan kami untuk berubah. Amin."
-  },
-  {
-    "tanggal": "2025-03-10",
-    "masa": "PRAPASKAH",
-    "quote": "Berubahlah. (Mrk 1:15)",
-    "refleksi": "Prapaskah adalah waktu memperbaiki diri dan jujur.",
-    "doa": "Tuhan, kuatkan kami untuk berubah. Amin."
-  },
-  {
-    "tanggal": "2025-03-11",
-    "masa": "PRAPASKAH",
-    "quote": "Berubahlah. (Mrk 1:15)",
-    "refleksi": "Prapaskah adalah waktu memperbaiki diri dan jujur.",
-    "doa": "Tuhan, kuatkan kami untuk berubah. Amin."
-  },
-  {
-    "tanggal": "2025-03-12",
-    "masa": "PRAPASKAH",
-    "quote": "Berubahlah. (Mrk 1:15)",
-    "refleksi": "Prapaskah adalah waktu memperbaiki diri dan jujur.",
-    "doa": "Tuhan, kuatkan kami untuk berubah. Amin."
-  },
-  {
-    "tanggal": "2025-03-13",
-    "masa": "PRAPASKAH",
-    "quote": "Berubahlah. (Mrk 1:15)",
-    "refleksi": "Prapaskah adalah waktu memperbaiki diri dan jujur.",
-    "doa": "Tuhan, kuatkan kami untuk berubah. Amin."
-  },
-  {
-    "tanggal": "2025-03-14",
-    "masa": "PRAPASKAH",
-    "quote": "Berubahlah. (Mrk 1:15)",
-    "refleksi": "Prapaskah adalah waktu memperbaiki diri dan jujur.",
-    "doa": "Tuhan, kuatkan kami untuk berubah. Amin."
-  },
-  {
-    "tanggal": "2025-03-15",
-    "masa": "PRAPASKAH",
-    "quote": "Berubahlah. (Mrk 1:15)",
-    "refleksi": "Prapaskah adalah waktu memperbaiki diri dan jujur.",
-    "doa": "Tuhan, kuatkan kami untuk berubah. Amin."
-  },
-  {
-    "tanggal": "2025-03-16",
-    "masa": "PRAPASKAH",
-    "quote": "Berubahlah. (Mrk 1:15)",
-    "refleksi": "Prapaskah adalah waktu memperbaiki diri dan jujur.",
-    "doa": "Tuhan, kuatkan kami untuk berubah. Amin."
-  },
-  {
-    "tanggal": "2025-03-17",
-    "masa": "PRAPASKAH",
-    "quote": "Berubahlah. (Mrk 1:15)",
-    "refleksi": "Prapaskah adalah waktu memperbaiki diri dan jujur.",
-    "doa": "Tuhan, kuatkan kami untuk berubah. Amin."
-  },
-  {
-    "tanggal": "2025-03-18",
-    "masa": "PRAPASKAH",
-    "quote": "Berubahlah. (Mrk 1:15)",
-    "refleksi": "Prapaskah adalah waktu memperbaiki diri dan jujur.",
-    "doa": "Tuhan, kuatkan kami untuk berubah. Amin."
-  },
-  {
-    "tanggal": "2025-03-19",
-    "masa": "PRAPASKAH",
-    "quote": "Berubahlah. (Mrk 1:15)",
-    "refleksi": "Prapaskah adalah waktu memperbaiki diri dan jujur.",
-    "doa": "Tuhan, kuatkan kami untuk berubah. Amin."
-  },
-  {
-    "tanggal": "2025-03-20",
-    "masa": "PRAPASKAH",
-    "quote": "Berubahlah. (Mrk 1:15)",
-    "refleksi": "Prapaskah adalah waktu memperbaiki diri dan jujur.",
-    "doa": "Tuhan, kuatkan kami untuk berubah. Amin."
-  },
-  {
-    "tanggal": "2025-03-21",
-    "masa": "PRAPASKAH",
-    "quote": "Berubahlah. (Mrk 1:15)",
-    "refleksi": "Prapaskah adalah waktu memperbaiki diri dan jujur.",
-    "doa": "Tuhan, kuatkan kami untuk berubah. Amin."
-  },
-  {
-    "tanggal": "2025-03-22",
-    "masa": "PRAPASKAH",
-    "quote": "Berubahlah. (Mrk 1:15)",
-    "refleksi": "Prapaskah adalah waktu memperbaiki diri dan jujur.",
-    "doa": "Tuhan, kuatkan kami untuk berubah. Amin."
-  },
-  {
-    "tanggal": "2025-03-23",
-    "masa": "PRAPASKAH",
-    "quote": "Berubahlah. (Mrk 1:15)",
-    "refleksi": "Prapaskah adalah waktu memperbaiki diri dan jujur.",
-    "doa": "Tuhan, kuatkan kami untuk berubah. Amin."
-  },
-  {
-    "tanggal": "2025-03-24",
-    "masa": "PRAPASKAH",
-    "quote": "Berubahlah. (Mrk 1:15)",
-    "refleksi": "Prapaskah adalah waktu memperbaiki diri dan jujur.",
-    "doa": "Tuhan, kuatkan kami untuk berubah. Amin."
-  },
-  {
-    "tanggal": "2025-03-25",
-    "masa": "PRAPASKAH",
-    "quote": "Berubahlah. (Mrk 1:15)",
-    "refleksi": "Prapaskah adalah waktu memperbaiki diri dan jujur.",
-    "doa": "Tuhan, kuatkan kami untuk berubah. Amin."
-  },
-  {
-    "tanggal": "2025-03-26",
-    "masa": "PRAPASKAH",
-    "quote": "Berubahlah. (Mrk 1:15)",
-    "refleksi": "Prapaskah adalah waktu memperbaiki diri dan jujur.",
-    "doa": "Tuhan, kuatkan kami untuk berubah. Amin."
-  },
-  {
-    "tanggal": "2025-03-27",
-    "masa": "PRAPASKAH",
-    "quote": "Berubahlah. (Mrk 1:15)",
-    "refleksi": "Prapaskah adalah waktu memperbaiki diri dan jujur.",
-    "doa": "Tuhan, kuatkan kami untuk berubah. Amin."
-  },
-  {
-    "tanggal": "2025-03-28",
-    "masa": "PRAPASKAH",
-    "quote": "Berubahlah. (Mrk 1:15)",
-    "refleksi": "Prapaskah adalah waktu memperbaiki diri dan jujur.",
-    "doa": "Tuhan, kuatkan kami untuk berubah. Amin."
-  },
-  {
-    "tanggal": "2025-03-29",
-    "masa": "PRAPASKAH",
-    "quote": "Berubahlah. (Mrk 1:15)",
-    "refleksi": "Prapaskah adalah waktu memperbaiki diri dan jujur.",
-    "doa": "Tuhan, kuatkan kami untuk berubah. Amin."
-  },
-  {
-    "tanggal": "2025-03-30",
-    "masa": "PRAPASKAH",
-    "quote": "Berubahlah. (Mrk 1:15)",
-    "refleksi": "Prapaskah adalah waktu memperbaiki diri dan jujur.",
-    "doa": "Tuhan, kuatkan kami untuk berubah. Amin."
-  },
-  {
-    "tanggal": "2025-03-31",
-    "masa": "PRAPASKAH",
-    "quote": "Berubahlah. (Mrk 1:15)",
-    "refleksi": "Prapaskah adalah waktu memperbaiki diri dan jujur.",
-    "doa": "Tuhan, kuatkan kami untuk berubah. Amin."
-  },
-  {
-    "tanggal": "2025-04-01",
-    "masa": "PRAPASKAH",
-    "quote": "Berubahlah. (Mrk 1:15)",
-    "refleksi": "Prapaskah adalah waktu memperbaiki diri dan jujur.",
-    "doa": "Tuhan, kuatkan kami untuk berubah. Amin."
-  },
-  {
-    "tanggal": "2025-04-02",
-    "masa": "PRAPASKAH",
-    "quote": "Berubahlah. (Mrk 1:15)",
-    "refleksi": "Prapaskah adalah waktu memperbaiki diri dan jujur.",
-    "doa": "Tuhan, kuatkan kami untuk berubah. Amin."
-  },
-  {
-    "tanggal": "2025-04-03",
-    "masa": "PRAPASKAH",
-    "quote": "Berubahlah. (Mrk 1:15)",
-    "refleksi": "Prapaskah adalah waktu memperbaiki diri dan jujur.",
-    "doa": "Tuhan, kuatkan kami untuk berubah. Amin."
-  },
-  {
-    "tanggal": "2025-04-04",
-    "masa": "PRAPASKAH",
-    "quote": "Berubahlah. (Mrk 1:15)",
-    "refleksi": "Prapaskah adalah waktu memperbaiki diri dan jujur.",
-    "doa": "Tuhan, kuatkan kami untuk berubah. Amin."
-  },
-  {
-    "tanggal": "2025-04-05",
-    "masa": "PRAPASKAH",
-    "quote": "Berubahlah. (Mrk 1:15)",
-    "refleksi": "Prapaskah adalah waktu memperbaiki diri dan jujur.",
-    "doa": "Tuhan, kuatkan kami untuk berubah. Amin."
-  },
-  {
-    "tanggal": "2025-04-06",
-    "masa": "PRAPASKAH",
-    "quote": "Berubahlah. (Mrk 1:15)",
-    "refleksi": "Prapaskah adalah waktu memperbaiki diri dan jujur.",
-    "doa": "Tuhan, kuatkan kami untuk berubah. Amin."
-  },
-  {
-    "tanggal": "2025-04-07",
-    "masa": "PRAPASKAH",
-    "quote": "Berubahlah. (Mrk 1:15)",
-    "refleksi": "Prapaskah adalah waktu memperbaiki diri dan jujur.",
-    "doa": "Tuhan, kuatkan kami untuk berubah. Amin."
-  },
-  {
-    "tanggal": "2025-04-08",
-    "masa": "PRAPASKAH",
-    "quote": "Berubahlah. (Mrk 1:15)",
-    "refleksi": "Prapaskah adalah waktu memperbaiki diri dan jujur.",
-    "doa": "Tuhan, kuatkan kami untuk berubah. Amin."
-  },
-  {
-    "tanggal": "2025-04-09",
-    "masa": "PRAPASKAH",
-    "quote": "Berubahlah. (Mrk 1:15)",
-    "refleksi": "Prapaskah adalah waktu memperbaiki diri dan jujur.",
-    "doa": "Tuhan, kuatkan kami untuk berubah. Amin."
-  },
-  {
-    "tanggal": "2025-04-10",
-    "masa": "PRAPASKAH",
-    "quote": "Berubahlah. (Mrk 1:15)",
-    "refleksi": "Prapaskah adalah waktu memperbaiki diri dan jujur.",
-    "doa": "Tuhan, kuatkan kami untuk berubah. Amin."
-  },
-  {
-    "tanggal": "2025-04-11",
-    "masa": "PRAPASKAH",
-    "quote": "Berubahlah. (Mrk 1:15)",
-    "refleksi": "Prapaskah adalah waktu memperbaiki diri dan jujur.",
-    "doa": "Tuhan, kuatkan kami untuk berubah. Amin."
-  },
-  {
-    "tanggal": "2025-04-12",
-    "masa": "PRAPASKAH",
-    "quote": "Berubahlah. (Mrk 1:15)",
-    "refleksi": "Prapaskah adalah waktu memperbaiki diri dan jujur.",
-    "doa": "Tuhan, kuatkan kami untuk berubah. Amin."
-  },
-  {
-    "tanggal": "2025-04-13",
-    "masa": "PRAPASKAH",
-    "quote": "Berubahlah. (Mrk 1:15)",
-    "refleksi": "Prapaskah adalah waktu memperbaiki diri dan jujur.",
-    "doa": "Tuhan, kuatkan kami untuk berubah. Amin."
-  },
-  {
-    "tanggal": "2025-04-14",
-    "masa": "PRAPASKAH",
-    "quote": "Berubahlah. (Mrk 1:15)",
-    "refleksi": "Prapaskah adalah waktu memperbaiki diri dan jujur.",
-    "doa": "Tuhan, kuatkan kami untuk berubah. Amin."
-  },
-  {
-    "tanggal": "2025-04-15",
-    "masa": "PRAPASKAH",
-    "quote": "Berubahlah. (Mrk 1:15)",
-    "refleksi": "Prapaskah adalah waktu memperbaiki diri dan jujur.",
-    "doa": "Tuhan, kuatkan kami untuk berubah. Amin."
-  },
-  {
-    "tanggal": "2025-04-16",
-    "masa": "PRAPASKAH",
-    "quote": "Berubahlah. (Mrk 1:15)",
-    "refleksi": "Prapaskah adalah waktu memperbaiki diri dan jujur.",
-    "doa": "Tuhan, kuatkan kami untuk berubah. Amin."
-  },
-  {
-    "tanggal": "2025-04-17",
-    "masa": "PRAPASKAH",
-    "quote": "Berubahlah. (Mrk 1:15)",
-    "refleksi": "Prapaskah adalah waktu memperbaiki diri dan jujur.",
-    "doa": "Tuhan, kuatkan kami untuk berubah. Amin."
-  },
-  {
-    "tanggal": "2025-04-18",
-    "masa": "PRAPASKAH",
-    "quote": "Berubahlah. (Mrk 1:15)",
-    "refleksi": "Prapaskah adalah waktu memperbaiki diri dan jujur.",
-    "doa": "Tuhan, kuatkan kami untuk berubah. Amin."
-  },
-  {
-    "tanggal": "2025-04-19",
-    "masa": "PRAPASKAH",
-    "quote": "Berubahlah. (Mrk 1:15)",
-    "refleksi": "Prapaskah adalah waktu memperbaiki diri dan jujur.",
-    "doa": "Tuhan, kuatkan kami untuk berubah. Amin."
-  },
-  {
-    "tanggal": "2025-04-20",
-    "masa": "PASKAH",
-    "quote": "Ia telah bangkit. (Luk 24:6)",
-    "refleksi": "Kebangkitan memberi harapan untuk bangkit kembali.",
-    "doa": "Tuhan yang bangkit, kuatkan kami. Amin."
-  },
-  {
-    "tanggal": "2025-04-21",
-    "masa": "PASKAH",
-    "quote": "Ia telah bangkit. (Luk 24:6)",
-    "refleksi": "Kebangkitan memberi harapan untuk bangkit kembali.",
-    "doa": "Tuhan yang bangkit, kuatkan kami. Amin."
-  },
-  {
-    "tanggal": "2025-04-22",
-    "masa": "PASKAH",
-    "quote": "Ia telah bangkit. (Luk 24:6)",
-    "refleksi": "Kebangkitan memberi harapan untuk bangkit kembali.",
-    "doa": "Tuhan yang bangkit, kuatkan kami. Amin."
-  },
-  {
-    "tanggal": "2025-04-23",
-    "masa": "PASKAH",
-    "quote": "Ia telah bangkit. (Luk 24:6)",
-    "refleksi": "Kebangkitan memberi harapan untuk bangkit kembali.",
-    "doa": "Tuhan yang bangkit, kuatkan kami. Amin."
-  },
-  {
-    "tanggal": "2025-04-24",
-    "masa": "PASKAH",
-    "quote": "Ia telah bangkit. (Luk 24:6)",
-    "refleksi": "Kebangkitan memberi harapan untuk bangkit kembali.",
-    "doa": "Tuhan yang bangkit, kuatkan kami. Amin."
-  },
-  {
-    "tanggal": "2025-04-25",
-    "masa": "PASKAH",
-    "quote": "Ia telah bangkit. (Luk 24:6)",
-    "refleksi": "Kebangkitan memberi harapan untuk bangkit kembali.",
-    "doa": "Tuhan yang bangkit, kuatkan kami. Amin."
-  },
-  {
-    "tanggal": "2025-04-26",
-    "masa": "PASKAH",
-    "quote": "Ia telah bangkit. (Luk 24:6)",
-    "refleksi": "Kebangkitan memberi harapan untuk bangkit kembali.",
-    "doa": "Tuhan yang bangkit, kuatkan kami. Amin."
-  },
-  {
-    "tanggal": "2025-04-27",
-    "masa": "PASKAH",
-    "quote": "Ia telah bangkit. (Luk 24:6)",
-    "refleksi": "Kebangkitan memberi harapan untuk bangkit kembali.",
-    "doa": "Tuhan yang bangkit, kuatkan kami. Amin."
-  },
-  {
-    "tanggal": "2025-04-28",
-    "masa": "PASKAH",
-    "quote": "Ia telah bangkit. (Luk 24:6)",
-    "refleksi": "Kebangkitan memberi harapan untuk bangkit kembali.",
-    "doa": "Tuhan yang bangkit, kuatkan kami. Amin."
-  },
-  {
-    "tanggal": "2025-04-29",
-    "masa": "PASKAH",
-    "quote": "Ia telah bangkit. (Luk 24:6)",
-    "refleksi": "Kebangkitan memberi harapan untuk bangkit kembali.",
-    "doa": "Tuhan yang bangkit, kuatkan kami. Amin."
-  },
-  {
-    "tanggal": "2025-04-30",
-    "masa": "PASKAH",
-    "quote": "Ia telah bangkit. (Luk 24:6)",
-    "refleksi": "Kebangkitan memberi harapan untuk bangkit kembali.",
-    "doa": "Tuhan yang bangkit, kuatkan kami. Amin."
-  },
-  {
-    "tanggal": "2025-05-01",
-    "masa": "PASKAH",
-    "quote": "Ia telah bangkit. (Luk 24:6)",
-    "refleksi": "Kebangkitan memberi harapan untuk bangkit kembali.",
-    "doa": "Tuhan yang bangkit, kuatkan kami. Amin."
-  },
-  {
-    "tanggal": "2025-05-02",
-    "masa": "PASKAH",
-    "quote": "Ia telah bangkit. (Luk 24:6)",
-    "refleksi": "Kebangkitan memberi harapan untuk bangkit kembali.",
-    "doa": "Tuhan yang bangkit, kuatkan kami. Amin."
-  },
-  {
-    "tanggal": "2025-05-03",
-    "masa": "PASKAH",
-    "quote": "Ia telah bangkit. (Luk 24:6)",
-    "refleksi": "Kebangkitan memberi harapan untuk bangkit kembali.",
-    "doa": "Tuhan yang bangkit, kuatkan kami. Amin."
-  },
-  {
-    "tanggal": "2025-05-04",
-    "masa": "PASKAH",
-    "quote": "Ia telah bangkit. (Luk 24:6)",
-    "refleksi": "Kebangkitan memberi harapan untuk bangkit kembali.",
-    "doa": "Tuhan yang bangkit, kuatkan kami. Amin."
-  },
-  {
-    "tanggal": "2025-05-05",
-    "masa": "PASKAH",
-    "quote": "Ia telah bangkit. (Luk 24:6)",
-    "refleksi": "Kebangkitan memberi harapan untuk bangkit kembali.",
-    "doa": "Tuhan yang bangkit, kuatkan kami. Amin."
-  },
-  {
-    "tanggal": "2025-05-06",
-    "masa": "PASKAH",
-    "quote": "Ia telah bangkit. (Luk 24:6)",
-    "refleksi": "Kebangkitan memberi harapan untuk bangkit kembali.",
-    "doa": "Tuhan yang bangkit, kuatkan kami. Amin."
-  },
-  {
-    "tanggal": "2025-05-07",
-    "masa": "PASKAH",
-    "quote": "Ia telah bangkit. (Luk 24:6)",
-    "refleksi": "Kebangkitan memberi harapan untuk bangkit kembali.",
-    "doa": "Tuhan yang bangkit, kuatkan kami. Amin."
-  },
-  {
-    "tanggal": "2025-05-08",
-    "masa": "PASKAH",
-    "quote": "Ia telah bangkit. (Luk 24:6)",
-    "refleksi": "Kebangkitan memberi harapan untuk bangkit kembali.",
-    "doa": "Tuhan yang bangkit, kuatkan kami. Amin."
-  },
-  {
-    "tanggal": "2025-05-09",
-    "masa": "PASKAH",
-    "quote": "Ia telah bangkit. (Luk 24:6)",
-    "refleksi": "Kebangkitan memberi harapan untuk bangkit kembali.",
-    "doa": "Tuhan yang bangkit, kuatkan kami. Amin."
-  },
-  {
-    "tanggal": "2025-05-10",
-    "masa": "PASKAH",
-    "quote": "Ia telah bangkit. (Luk 24:6)",
-    "refleksi": "Kebangkitan memberi harapan untuk bangkit kembali.",
-    "doa": "Tuhan yang bangkit, kuatkan kami. Amin."
-  },
-  {
-    "tanggal": "2025-05-11",
-    "masa": "PASKAH",
-    "quote": "Ia telah bangkit. (Luk 24:6)",
-    "refleksi": "Kebangkitan memberi harapan untuk bangkit kembali.",
-    "doa": "Tuhan yang bangkit, kuatkan kami. Amin."
-  },
-  {
-    "tanggal": "2025-05-12",
-    "masa": "PASKAH",
-    "quote": "Ia telah bangkit. (Luk 24:6)",
-    "refleksi": "Kebangkitan memberi harapan untuk bangkit kembali.",
-    "doa": "Tuhan yang bangkit, kuatkan kami. Amin."
-  },
-  {
-    "tanggal": "2025-05-13",
-    "masa": "PASKAH",
-    "quote": "Ia telah bangkit. (Luk 24:6)",
-    "refleksi": "Kebangkitan memberi harapan untuk bangkit kembali.",
-    "doa": "Tuhan yang bangkit, kuatkan kami. Amin."
-  },
-  {
-    "tanggal": "2025-05-14",
-    "masa": "PASKAH",
-    "quote": "Ia telah bangkit. (Luk 24:6)",
-    "refleksi": "Kebangkitan memberi harapan untuk bangkit kembali.",
-    "doa": "Tuhan yang bangkit, kuatkan kami. Amin."
-  },
-  {
-    "tanggal": "2025-05-15",
-    "masa": "PASKAH",
-    "quote": "Ia telah bangkit. (Luk 24:6)",
-    "refleksi": "Kebangkitan memberi harapan untuk bangkit kembali.",
-    "doa": "Tuhan yang bangkit, kuatkan kami. Amin."
-  },
-  {
-    "tanggal": "2025-05-16",
-    "masa": "PASKAH",
-    "quote": "Ia telah bangkit. (Luk 24:6)",
-    "refleksi": "Kebangkitan memberi harapan untuk bangkit kembali.",
-    "doa": "Tuhan yang bangkit, kuatkan kami. Amin."
-  },
-  {
-    "tanggal": "2025-05-17",
-    "masa": "PASKAH",
-    "quote": "Ia telah bangkit. (Luk 24:6)",
-    "refleksi": "Kebangkitan memberi harapan untuk bangkit kembali.",
-    "doa": "Tuhan yang bangkit, kuatkan kami. Amin."
-  },
-  {
-    "tanggal": "2025-05-18",
-    "masa": "PASKAH",
-    "quote": "Ia telah bangkit. (Luk 24:6)",
-    "refleksi": "Kebangkitan memberi harapan untuk bangkit kembali.",
-    "doa": "Tuhan yang bangkit, kuatkan kami. Amin."
-  },
-  {
-    "tanggal": "2025-05-19",
-    "masa": "PASKAH",
-    "quote": "Ia telah bangkit. (Luk 24:6)",
-    "refleksi": "Kebangkitan memberi harapan untuk bangkit kembali.",
-    "doa": "Tuhan yang bangkit, kuatkan kami. Amin."
-  },
-  {
-    "tanggal": "2025-05-20",
-    "masa": "PASKAH",
-    "quote": "Ia telah bangkit. (Luk 24:6)",
-    "refleksi": "Kebangkitan memberi harapan untuk bangkit kembali.",
-    "doa": "Tuhan yang bangkit, kuatkan kami. Amin."
-  },
-  {
-    "tanggal": "2025-05-21",
-    "masa": "PASKAH",
-    "quote": "Ia telah bangkit. (Luk 24:6)",
-    "refleksi": "Kebangkitan memberi harapan untuk bangkit kembali.",
-    "doa": "Tuhan yang bangkit, kuatkan kami. Amin."
-  },
-  {
-    "tanggal": "2025-05-22",
-    "masa": "PASKAH",
-    "quote": "Ia telah bangkit. (Luk 24:6)",
-    "refleksi": "Kebangkitan memberi harapan untuk bangkit kembali.",
-    "doa": "Tuhan yang bangkit, kuatkan kami. Amin."
-  },
-  {
-    "tanggal": "2025-05-23",
-    "masa": "PASKAH",
-    "quote": "Ia telah bangkit. (Luk 24:6)",
-    "refleksi": "Kebangkitan memberi harapan untuk bangkit kembali.",
-    "doa": "Tuhan yang bangkit, kuatkan kami. Amin."
-  },
-  {
-    "tanggal": "2025-05-24",
-    "masa": "PASKAH",
-    "quote": "Ia telah bangkit. (Luk 24:6)",
-    "refleksi": "Kebangkitan memberi harapan untuk bangkit kembali.",
-    "doa": "Tuhan yang bangkit, kuatkan kami. Amin."
-  },
-  {
-    "tanggal": "2025-05-25",
-    "masa": "PASKAH",
-    "quote": "Ia telah bangkit. (Luk 24:6)",
-    "refleksi": "Kebangkitan memberi harapan untuk bangkit kembali.",
-    "doa": "Tuhan yang bangkit, kuatkan kami. Amin."
-  },
-  {
-    "tanggal": "2025-05-26",
-    "masa": "PASKAH",
-    "quote": "Ia telah bangkit. (Luk 24:6)",
-    "refleksi": "Kebangkitan memberi harapan untuk bangkit kembali.",
-    "doa": "Tuhan yang bangkit, kuatkan kami. Amin."
-  },
-  {
-    "tanggal": "2025-05-27",
-    "masa": "PASKAH",
-    "quote": "Ia telah bangkit. (Luk 24:6)",
-    "refleksi": "Kebangkitan memberi harapan untuk bangkit kembali.",
-    "doa": "Tuhan yang bangkit, kuatkan kami. Amin."
-  },
-  {
-    "tanggal": "2025-05-28",
-    "masa": "PASKAH",
-    "quote": "Ia telah bangkit. (Luk 24:6)",
-    "refleksi": "Kebangkitan memberi harapan untuk bangkit kembali.",
-    "doa": "Tuhan yang bangkit, kuatkan kami. Amin."
-  },
-  {
-    "tanggal": "2025-05-29",
-    "masa": "PASKAH",
-    "quote": "Ia telah bangkit. (Luk 24:6)",
-    "refleksi": "Kebangkitan memberi harapan untuk bangkit kembali.",
-    "doa": "Tuhan yang bangkit, kuatkan kami. Amin."
-  },
-  {
-    "tanggal": "2025-05-30",
-    "masa": "PASKAH",
-    "quote": "Ia telah bangkit. (Luk 24:6)",
-    "refleksi": "Kebangkitan memberi harapan untuk bangkit kembali.",
-    "doa": "Tuhan yang bangkit, kuatkan kami. Amin."
-  },
-  {
-    "tanggal": "2025-05-31",
-    "masa": "PASKAH",
-    "quote": "Ia telah bangkit. (Luk 24:6)",
-    "refleksi": "Kebangkitan memberi harapan untuk bangkit kembali.",
-    "doa": "Tuhan yang bangkit, kuatkan kami. Amin."
-  },
-  {
-    "tanggal": "2025-06-01",
-    "masa": "PASKAH",
-    "quote": "Ia telah bangkit. (Luk 24:6)",
-    "refleksi": "Kebangkitan memberi harapan untuk bangkit kembali.",
-    "doa": "Tuhan yang bangkit, kuatkan kami. Amin."
-  },
-  {
-    "tanggal": "2025-06-02",
-    "masa": "PASKAH",
-    "quote": "Ia telah bangkit. (Luk 24:6)",
-    "refleksi": "Kebangkitan memberi harapan untuk bangkit kembali.",
-    "doa": "Tuhan yang bangkit, kuatkan kami. Amin."
-  },
-  {
-    "tanggal": "2025-06-03",
-    "masa": "PASKAH",
-    "quote": "Ia telah bangkit. (Luk 24:6)",
-    "refleksi": "Kebangkitan memberi harapan untuk bangkit kembali.",
-    "doa": "Tuhan yang bangkit, kuatkan kami. Amin."
-  },
-  {
-    "tanggal": "2025-06-04",
-    "masa": "PASKAH",
-    "quote": "Ia telah bangkit. (Luk 24:6)",
-    "refleksi": "Kebangkitan memberi harapan untuk bangkit kembali.",
-    "doa": "Tuhan yang bangkit, kuatkan kami. Amin."
-  },
-  {
-    "tanggal": "2025-06-05",
-    "masa": "PASKAH",
-    "quote": "Ia telah bangkit. (Luk 24:6)",
-    "refleksi": "Kebangkitan memberi harapan untuk bangkit kembali.",
-    "doa": "Tuhan yang bangkit, kuatkan kami. Amin."
-  },
-  {
-    "tanggal": "2025-06-06",
-    "masa": "PASKAH",
-    "quote": "Ia telah bangkit. (Luk 24:6)",
-    "refleksi": "Kebangkitan memberi harapan untuk bangkit kembali.",
-    "doa": "Tuhan yang bangkit, kuatkan kami. Amin."
-  },
-  {
-    "tanggal": "2025-06-07",
-    "masa": "PASKAH",
-    "quote": "Ia telah bangkit. (Luk 24:6)",
-    "refleksi": "Kebangkitan memberi harapan untuk bangkit kembali.",
-    "doa": "Tuhan yang bangkit, kuatkan kami. Amin."
-  },
-  {
-    "tanggal": "2025-06-08",
-    "masa": "PASKAH",
-    "quote": "Ia telah bangkit. (Luk 24:6)",
-    "refleksi": "Kebangkitan memberi harapan untuk bangkit kembali.",
-    "doa": "Tuhan yang bangkit, kuatkan kami. Amin."
-  },
-  {
-    "tanggal": "2025-06-09",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-06-10",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-06-11",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-06-12",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-06-13",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-06-14",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-06-15",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-06-16",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-06-17",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-06-18",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-06-19",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-06-20",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-06-21",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-06-22",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-06-23",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-06-24",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-06-25",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-06-26",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-06-27",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-06-28",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-06-29",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-06-30",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-07-01",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-07-02",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-07-03",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-07-04",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-07-05",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-07-06",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-07-07",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-07-08",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-07-09",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-07-10",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-07-11",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-07-12",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-07-13",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-07-14",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-07-15",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-07-16",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-07-17",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-07-18",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-07-19",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-07-20",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-07-21",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-07-22",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-07-23",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-07-24",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-07-25",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-07-26",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-07-27",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-07-28",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-07-29",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-07-30",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-07-31",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-08-01",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-08-02",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-08-03",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-08-04",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-08-05",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-08-06",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-08-07",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-08-08",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-08-09",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-08-10",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-08-11",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-08-12",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-08-13",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-08-14",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-08-15",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-08-16",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-08-17",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-08-18",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-08-19",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-08-20",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-08-21",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-08-22",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-08-23",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-08-24",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-08-25",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-08-26",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-08-27",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-08-28",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-08-29",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-08-30",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-08-31",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-09-01",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-09-02",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-09-03",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-09-04",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-09-05",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-09-06",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-09-07",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-09-08",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-09-09",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-09-10",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-09-11",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-09-12",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-09-13",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-09-14",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-09-15",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-09-16",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-09-17",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-09-18",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-09-19",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-09-20",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-09-21",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-09-22",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-09-23",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-09-24",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-09-25",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-09-26",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-09-27",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-09-28",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-09-29",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-09-30",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-10-01",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-10-02",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-10-03",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-10-04",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-10-05",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-10-06",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-10-07",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-10-08",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-10-09",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-10-10",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-10-11",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-10-12",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-10-13",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-10-14",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-10-15",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-10-16",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-10-17",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-10-18",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-10-19",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-10-20",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-10-21",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-10-22",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-10-23",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-10-24",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-10-25",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-10-26",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-10-27",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-10-28",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-10-29",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-10-30",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-10-31",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-11-01",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-11-02",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-11-03",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-11-04",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-11-05",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-11-06",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-11-07",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-11-08",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-11-09",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-11-10",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-11-11",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-11-12",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-11-13",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-11-14",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-11-15",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-11-16",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-11-17",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-11-18",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-11-19",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-11-20",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-11-21",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-11-22",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-11-23",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-11-24",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-11-25",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-11-26",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-11-27",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-11-28",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-11-29",
-    "masa": "BIASA",
-    "quote": "Kasihilah sesamamu. (Yoh 13:34)",
-    "refleksi": "Kesetiaan pada hal kecil membentuk karakter.",
-    "doa": "Tuhan, ajari kami setia berbuat baik. Amin."
-  },
-  {
-    "tanggal": "2025-11-30",
-    "masa": "ADVEN",
-    "quote": "Berjaga-jagalah. (Mat 25:13)",
-    "refleksi": "Adven mengajak kita bersiap dengan disiplin dan harapan.",
-    "doa": "Tuhan, siapkan hati kami hari ini. Amin."
-  },
-  {
-    "tanggal": "2025-12-01",
-    "masa": "ADVEN",
-    "quote": "Berjaga-jagalah. (Mat 25:13)",
-    "refleksi": "Adven mengajak kita bersiap dengan disiplin dan harapan.",
-    "doa": "Tuhan, siapkan hati kami hari ini. Amin."
-  },
-  {
-    "tanggal": "2025-12-02",
-    "masa": "ADVEN",
-    "quote": "Berjaga-jagalah. (Mat 25:13)",
-    "refleksi": "Adven mengajak kita bersiap dengan disiplin dan harapan.",
-    "doa": "Tuhan, siapkan hati kami hari ini. Amin."
-  },
-  {
-    "tanggal": "2025-12-03",
-    "masa": "ADVEN",
-    "quote": "Berjaga-jagalah. (Mat 25:13)",
-    "refleksi": "Adven mengajak kita bersiap dengan disiplin dan harapan.",
-    "doa": "Tuhan, siapkan hati kami hari ini. Amin."
-  },
-  {
-    "tanggal": "2025-12-04",
-    "masa": "ADVEN",
-    "quote": "Berjaga-jagalah. (Mat 25:13)",
-    "refleksi": "Adven mengajak kita bersiap dengan disiplin dan harapan.",
-    "doa": "Tuhan, siapkan hati kami hari ini. Amin."
-  },
-  {
-    "tanggal": "2025-12-05",
-    "masa": "ADVEN",
-    "quote": "Berjaga-jagalah. (Mat 25:13)",
-    "refleksi": "Adven mengajak kita bersiap dengan disiplin dan harapan.",
-    "doa": "Tuhan, siapkan hati kami hari ini. Amin."
-  },
-  {
-    "tanggal": "2025-12-06",
-    "masa": "ADVEN",
-    "quote": "Berjaga-jagalah. (Mat 25:13)",
-    "refleksi": "Adven mengajak kita bersiap dengan disiplin dan harapan.",
-    "doa": "Tuhan, siapkan hati kami hari ini. Amin."
-  },
-  {
-    "tanggal": "2025-12-07",
-    "masa": "ADVEN",
-    "quote": "Berjaga-jagalah. (Mat 25:13)",
-    "refleksi": "Adven mengajak kita bersiap dengan disiplin dan harapan.",
-    "doa": "Tuhan, siapkan hati kami hari ini. Amin."
-  },
-  {
-    "tanggal": "2025-12-08",
-    "masa": "ADVEN",
-    "quote": "Berjaga-jagalah. (Mat 25:13)",
-    "refleksi": "Adven mengajak kita bersiap dengan disiplin dan harapan.",
-    "doa": "Tuhan, siapkan hati kami hari ini. Amin."
-  },
-  {
-    "tanggal": "2025-12-09",
-    "masa": "ADVEN",
-    "quote": "Berjaga-jagalah. (Mat 25:13)",
-    "refleksi": "Adven mengajak kita bersiap dengan disiplin dan harapan.",
-    "doa": "Tuhan, siapkan hati kami hari ini. Amin."
-  },
-  {
-    "tanggal": "2025-12-10",
-    "masa": "ADVEN",
-    "quote": "Berjaga-jagalah. (Mat 25:13)",
-    "refleksi": "Adven mengajak kita bersiap dengan disiplin dan harapan.",
-    "doa": "Tuhan, siapkan hati kami hari ini. Amin."
-  },
-  {
-    "tanggal": "2025-12-11",
-    "masa": "ADVEN",
-    "quote": "Berjaga-jagalah. (Mat 25:13)",
-    "refleksi": "Adven mengajak kita bersiap dengan disiplin dan harapan.",
-    "doa": "Tuhan, siapkan hati kami hari ini. Amin."
-  },
-  {
-    "tanggal": "2025-12-12",
-    "masa": "ADVEN",
-    "quote": "Berjaga-jagalah. (Mat 25:13)",
-    "refleksi": "Adven mengajak kita bersiap dengan disiplin dan harapan.",
-    "doa": "Tuhan, siapkan hati kami hari ini. Amin."
-  },
-  {
-    "tanggal": "2025-12-13",
-    "masa": "ADVEN",
-    "quote": "Berjaga-jagalah. (Mat 25:13)",
-    "refleksi": "Adven mengajak kita bersiap dengan disiplin dan harapan.",
-    "doa": "Tuhan, siapkan hati kami hari ini. Amin."
-  },
-  {
-    "tanggal": "2025-12-14",
-    "masa": "ADVEN",
-    "quote": "Berjaga-jagalah. (Mat 25:13)",
-    "refleksi": "Adven mengajak kita bersiap dengan disiplin dan harapan.",
-    "doa": "Tuhan, siapkan hati kami hari ini. Amin."
-  },
-  {
-    "tanggal": "2025-12-15",
-    "masa": "ADVEN",
-    "quote": "Berjaga-jagalah. (Mat 25:13)",
-    "refleksi": "Adven mengajak kita bersiap dengan disiplin dan harapan.",
-    "doa": "Tuhan, siapkan hati kami hari ini. Amin."
-  },
-  {
-    "tanggal": "2025-12-16",
-    "masa": "ADVEN",
-    "quote": "Berjaga-jagalah. (Mat 25:13)",
-    "refleksi": "Adven mengajak kita bersiap dengan disiplin dan harapan.",
-    "doa": "Tuhan, siapkan hati kami hari ini. Amin."
-  },
-  {
-    "tanggal": "2025-12-17",
-    "masa": "ADVEN",
-    "quote": "Berjaga-jagalah. (Mat 25:13)",
-    "refleksi": "Adven mengajak kita bersiap dengan disiplin dan harapan.",
-    "doa": "Tuhan, siapkan hati kami hari ini. Amin."
-  },
-  {
-    "tanggal": "2025-12-18",
-    "masa": "ADVEN",
-    "quote": "Berjaga-jagalah. (Mat 25:13)",
-    "refleksi": "Adven mengajak kita bersiap dengan disiplin dan harapan.",
-    "doa": "Tuhan, siapkan hati kami hari ini. Amin."
-  },
-  {
-    "tanggal": "2025-12-19",
-    "masa": "ADVEN",
-    "quote": "Berjaga-jagalah. (Mat 25:13)",
-    "refleksi": "Adven mengajak kita bersiap dengan disiplin dan harapan.",
-    "doa": "Tuhan, siapkan hati kami hari ini. Amin."
-  },
-  {
-    "tanggal": "2025-12-20",
-    "masa": "ADVEN",
-    "quote": "Berjaga-jagalah. (Mat 25:13)",
-    "refleksi": "Adven mengajak kita bersiap dengan disiplin dan harapan.",
-    "doa": "Tuhan, siapkan hati kami hari ini. Amin."
-  },
-  {
-    "tanggal": "2025-12-21",
-    "masa": "ADVEN",
-    "quote": "Berjaga-jagalah. (Mat 25:13)",
-    "refleksi": "Adven mengajak kita bersiap dengan disiplin dan harapan.",
-    "doa": "Tuhan, siapkan hati kami hari ini. Amin."
-  },
-  {
-    "tanggal": "2025-12-22",
-    "masa": "ADVEN",
-    "quote": "Berjaga-jagalah. (Mat 25:13)",
-    "refleksi": "Adven mengajak kita bersiap dengan disiplin dan harapan.",
-    "doa": "Tuhan, siapkan hati kami hari ini. Amin."
-  },
-  {
-    "tanggal": "2025-12-23",
-    "masa": "ADVEN",
-    "quote": "Berjaga-jagalah. (Mat 25:13)",
-    "refleksi": "Adven mengajak kita bersiap dengan disiplin dan harapan.",
-    "doa": "Tuhan, siapkan hati kami hari ini. Amin."
-  },
-  {
-    "tanggal": "2025-12-24",
-    "masa": "ADVEN",
-    "quote": "Berjaga-jagalah. (Mat 25:13)",
-    "refleksi": "Adven mengajak kita bersiap dengan disiplin dan harapan.",
-    "doa": "Tuhan, siapkan hati kami hari ini. Amin."
-  },
-  {
-    "tanggal": "2025-12-25",
-    "masa": "NATAL",
-    "quote": "Firman menjadi manusia. (Yoh 1:14)",
-    "refleksi": "Natal mengajak hidup sederhana dan membawa damai.",
-    "doa": "Yesus, ajari kami berbagi sukacita. Amin."
-  },
-  {
-    "tanggal": "2025-12-26",
-    "masa": "NATAL",
-    "quote": "Firman menjadi manusia. (Yoh 1:14)",
-    "refleksi": "Natal mengajak hidup sederhana dan membawa damai.",
-    "doa": "Yesus, ajari kami berbagi sukacita. Amin."
-  },
-  {
-    "tanggal": "2025-12-27",
-    "masa": "NATAL",
-    "quote": "Firman menjadi manusia. (Yoh 1:14)",
-    "refleksi": "Natal mengajak hidup sederhana dan membawa damai.",
-    "doa": "Yesus, ajari kami berbagi sukacita. Amin."
-  },
-  {
-    "tanggal": "2025-12-28",
-    "masa": "NATAL",
-    "quote": "Firman menjadi manusia. (Yoh 1:14)",
-    "refleksi": "Natal mengajak hidup sederhana dan membawa damai.",
-    "doa": "Yesus, ajari kami berbagi sukacita. Amin."
-  },
-  {
-    "tanggal": "2025-12-29",
-    "masa": "NATAL",
-    "quote": "Firman menjadi manusia. (Yoh 1:14)",
-    "refleksi": "Natal mengajak hidup sederhana dan membawa damai.",
-    "doa": "Yesus, ajari kami berbagi sukacita. Amin."
-  },
-  {
-    "tanggal": "2025-12-30",
-    "masa": "NATAL",
-    "quote": "Firman menjadi manusia. (Yoh 1:14)",
-    "refleksi": "Natal mengajak hidup sederhana dan membawa damai.",
-    "doa": "Yesus, ajari kami berbagi sukacita. Amin."
-  },
-  {
-    "tanggal": "2025-12-31",
-    "masa": "NATAL",
-    "quote": "Firman menjadi manusia. (Yoh 1:14)",
-    "refleksi": "Natal mengajak hidup sederhana dan membawa damai.",
-    "doa": "Yesus, ajari kami berbagi sukacita. Amin."
+import React, { useState, useEffect, useMemo } from 'react';
+import { ChevronLeft, ChevronRight, Calendar, BookOpen, Heart, MessageCircle, Globe, Info, Clock, Bell, Volume2, VolumeX, Rss, Loader2, RefreshCw } from 'lucide-react';
+
+// ==========================================
+// BAGIAN 1: THE ENGINE (MESIN LOGIKA WAKTU)
+// ==========================================
+
+const LiturgicalEngine = {
+  // 1. Computus (Hitung Paskah) - Algoritma Meeus/Jones/Butcher
+  getEasterDate: (year: number) => {
+    const a = year % 19;
+    const b = Math.floor(year / 100);
+    const c = year % 100;
+    const d = Math.floor(b / 4);
+    const e = b % 4;
+    const f = Math.floor((b + 8) / 25);
+    const g = Math.floor((b - f + 1) / 3);
+    const h = (19 * a + b - d - g + 15) % 30;
+    const i = Math.floor(c / 4);
+    const k = c % 4;
+    const l = (32 + 2 * e + 2 * i - h - k) % 7;
+    const m = Math.floor((a + 11 * h + 22 * l) / 451);
+    const month = Math.floor((h + l - 7 * m + 114) / 31);
+    const day = ((h + l - 7 * m + 114) % 31) + 1;
+    return new Date(year, month - 1, day);
+  },
+
+  getSundayCycle: (year: number) => {
+    const cycles = ['C', 'A', 'B']; 
+    return cycles[year % 3];
+  },
+
+  getWeekdayCycle: (year: number) => {
+    return year % 2 === 0 ? 'II' : 'I';
+  },
+
+  // 2. Kalkulator Hari Liturgi Presisi
+  getLiturgicalDayDetails: (date: Date) => {
+    const year = date.getFullYear();
+    const easter = LiturgicalEngine.getEasterDate(year);
+    const oneDay = 24 * 60 * 60 * 1000;
+    
+    const d = new Date(date.getTime()); d.setHours(0,0,0,0);
+    const e = new Date(easter.getTime()); e.setHours(0,0,0,0);
+    
+    const diffDays = Math.round((d.getTime() - e.getTime()) / oneDay);
+
+    // --- SIKLUS PASKAH ---
+    if (diffDays === -46) return { code: 'ASH_WED', name: 'RABU ABU', week: 0, color: 'purple', season: 'PRAPASKAH' };
+    if (diffDays > -46 && diffDays < -7) {
+        const week = Math.ceil((diffDays + 46) / 7);
+        return { code: 'LENT', name: `MINGGU PRAPASKAH KE-${week}`, week, color: 'purple', season: 'PRAPASKAH' };
+    }
+    if (diffDays >= -7 && diffDays < 0) return { code: 'HOLY_WEEK', name: 'PEKAN SUCI', week: 6, color: 'red', season: 'PRAPASKAH' };
+    if (diffDays === 0) return { code: 'EASTER_SUNDAY', name: 'HARI RAYA PASKAH', week: 1, color: 'white', season: 'PASKAH' };
+    if (diffDays > 0 && diffDays <= 49) {
+        const week = Math.ceil(diffDays / 7) + 1; 
+        if (diffDays === 39) return { code: 'ASCENSION', name: 'KENAIKAN TUHAN', week: 6, color: 'white', season: 'PASKAH' };
+        if (diffDays === 49) return { code: 'PENTECOST', name: 'HARI RAYA PENTAKOSTA', week: 8, color: 'red', season: 'PASKAH' };
+        return { code: 'EASTER_SEASON', name: `MINGGU PASKAH KE-${week}`, week, color: 'white', season: 'PASKAH' };
+    }
+
+    // --- SIKLUS NATAL ---
+    const month = date.getMonth(); 
+    const dayOfMonth = date.getDate();
+    
+    const xmas = new Date(year, 11, 25);
+    const xmasDay = xmas.getDay(); 
+    const adventStart = new Date(year, 11, 25);
+    adventStart.setDate(25 - (xmasDay === 0 ? 21 : xmasDay + 21)); 
+    
+    const diffAdvent = Math.round((d.getTime() - adventStart.getTime()) / oneDay);
+    if (diffAdvent >= 0 && d < xmas) {
+        const week = Math.floor(diffAdvent / 7) + 1;
+        return { code: 'ADVENT', name: `MINGGU ADVEN KE-${week}`, week, color: 'purple', season: 'ADVENT' };
+    }
+
+    if ((month === 11 && dayOfMonth >= 25) || (month === 0 && dayOfMonth <= 12)) {
+        return { code: 'CHRISTMAS', name: 'MASA NATAL', week: 0, color: 'white', season: 'NATAL' };
+    }
+
+    // --- MASA BIASA ---
+    const startOfYear = new Date(year, 0, 1);
+    const dayOfYear = Math.floor((d.getTime() - startOfYear.getTime()) / oneDay);
+    const weekOfYear = Math.ceil(dayOfYear / 7);
+    
+    return { code: 'ORDINARY', name: `MINGGU BIASA KE-${weekOfYear}`, week: weekOfYear, color: 'green', season: 'BIASA' };
   }
-]
+};
+
+// ==========================================
+// BAGIAN 2: DATA REPOSITORIES (LOCAL)
+// ==========================================
+
+// A. School Lectionary (Local Context)
+const SchoolLectionaryDB = {
+  ADVEN: [
+    { quote: "Berjaga-jagalah, sebab kamu tidak tahu saatnya. (Mat 25:13)", refleksi: "Masa Adven mengajak kita untuk berjaga. Sebagai siswa SMP, berjaga berarti bersikap disiplin, datang tepat waktu, dan memperhatikan pelajaran.", doa: "Tuhan Yesus, bantulah kami agar hari ini kami belajar berjaga dan bertanggung jawab dalam setiap tugas kami. Amin." },
+    { quote: "Siapkanlah jalan bagi Tuhan. (Mat 3:3)", refleksi: "Menyiapkan jalan bagi Tuhan berarti menyiapkan hati. Di sekolah, kita menyiapkan hati dengan bersikap sopan, jujur, dan mau belajar.", doa: "Tuhan, bersihkanlah hati kami agar kami siap menerima kehadiran-Mu hari ini. Amin." },
+    { quote: "Berbahagialah orang yang mendengarkan firman Tuhan. (Luk 11:28)", refleksi: "Mendengarkan firman Tuhan mengajarkan kita untuk mau mendengarkan nasihat guru dan orang tua.", doa: "Tuhan, ajari kami untuk mau mendengarkan dan melakukan yang baik setiap hari. Amin." },
+    { quote: "Hiduplah sebagai anak-anak terang. (Ef 5:8)", refleksi: "Sebagai anak-anak terang, kehadiran kita membawa kebaikan bagi teman-teman dan lingkungan sekolah.", doa: "Tuhan, jadikanlah kami terang bagi sesama. Amin." }
+  ],
+  NATAL: [
+    { quote: "Firman itu telah menjadi manusia. (Yoh 1:14)", refleksi: "Tuhan hadir saat kita belajar, bermain, dan berelasi. Natal mengajak kita menyadari kehadiran-Nya sehari-hari.", doa: "Tuhan Yesus, terima kasih karena Engkau hadir dekat dengan kami. Dampingi kami hari ini. Amin." },
+    { quote: "Keluarga Kudus hidup rukun. (lih. Luk 2:51)", refleksi: "Di kelas ini, kita adalah keluarga. Kita belajar hidup rukun dengan saling menghargai.", doa: "Tuhan, jadikanlah kami anak-anak yang membawa kerukunan. Amin." }
+  ],
+  PRAPASKAH: [
+    { quote: "Ingatlah, engkau berasal dari debu. (Kej 3:19)", refleksi: "Kesadaran akan keterbatasan mengajak kita untuk rendah hati dan mau belajar dari kesalahan.", doa: "Tuhan, ajari kami hidup rendah hati dan mau memperbaiki diri. Amin." },
+    { quote: "Berbuatlah kepada orang lain seperti kepada dirimu sendiri. (Mat 7:12)", refleksi: "Ayat ini mengajarkan empati. Jangan lakukan kepada teman apa yang tidak ingin kamu alami.", doa: "Tuhan, ajari kami bersikap empati kepada sesama. Amin." }
+  ],
+  PASKAH: [
+    { quote: "Ia tidak ada di sini, Ia telah bangkit. (Luk 24:6)", refleksi: "Kebangkitan Yesus membawa harapan. Kita diajak bangkit dari rasa malas dan putus asa.", doa: "Tuhan Yesus, bangkitkanlah semangat baru dalam hidup kami. Amin." },
+    { quote: "Jangan takut. (Mat 28:10)", refleksi: "Yesus menguatkan kita agar berani jujur dan bertanggung jawab, meskipun sulit.", doa: "Tuhan, kuatkanlah kami agar tidak mudah takut berbuat benar. Amin." }
+  ],
+  BIASA: [
+    { quote: "Hendaklah kamu setia dalam perkara kecil. (Luk 16:10)", refleksi: "Datang tepat waktu dan piket kelas adalah latihan kesetiaan yang membentuk karakter.", doa: "Tuhan, ajari kami setia dalam hal-hal kecil setiap hari. Amin." },
+    { quote: "Apa pun yang kamu perbuat, perbuatlah dengan sepenuh hati. (Kol 3:23)", refleksi: "Belajar bukan hanya demi nilai, tapi bentuk ibadah dan tanggung jawab kita.", doa: "Tuhan, bimbinglah kami agar belajar dengan sepenuh hati. Amin." }
+  ]
+};
+
+const getContentForDay = (seasonKey: string, date: Date) => {
+    let dbKey = 'BIASA';
+    if (seasonKey === 'ADVENT') dbKey = 'ADVEN';
+    else if (seasonKey === 'NATAL' || seasonKey === 'CHRISTMAS') dbKey = 'NATAL';
+    else if (seasonKey === 'PRAPASKAH' || seasonKey === 'LENT' || seasonKey === 'ASH_WED' || seasonKey === 'HOLY_WEEK') dbKey = 'PRAPASKAH';
+    else if (seasonKey === 'PASKAH' || seasonKey === 'EASTER' || seasonKey === 'EASTER_SEASON' || seasonKey === 'PENTECOST' || seasonKey === 'ASCENSION') dbKey = 'PASKAH';
+    
+    const collection = SchoolLectionaryDB[dbKey as keyof typeof SchoolLectionaryDB] || SchoolLectionaryDB.BIASA;
+    const start = new Date(date.getFullYear(), 0, 0);
+    const diff = date.getTime() - start.getTime();
+    const oneDay = 1000 * 60 * 60 * 24;
+    const dayOfYear = Math.floor(diff / oneDay);
+    return collection[dayOfYear % collection.length];
+};
+
+// ==========================================
+// BAGIAN 3: VATICAN NEWS FETCHER & DATA
+// ==========================================
+
+const VATICAN_RSS_URL = "https://www.vaticannews.va/en/word-of-the-day.rss.xml";
+
+// DATA LENGKAP DARI RSS FEED (FULL CONTENT UNTUK FALLBACK)
+const VATICAN_FALLBACK_DATA = `
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xml:lang="en">
+<channel>
+<title>Word of the day</title>
+<item>
+<title>Gospel and Word of the Day - 27 December 2025</title>
+<pubDate>Sat, 27 Dec 2025 00:00:00 +0100</pubDate>
+<description>
+<![CDATA[ <p>A reading from the first letter of John<br /> 1:1-4</p> <p>Beloved:<br /> What was from the beginning,<br /> what we have heard,<br /> what we have seen with our eyes,<br /> what we looked upon<br /> and touched with our hands<br /> concerns the Word of life —<br /> for the life was made visible;<br /> we have seen it and testify to it<br /> and proclaim to you the eternal life<br /> that was with the Father and was made visible to us—<br /> what we have seen and heard<br /> we proclaim now to you,<br /> so that you too may have fellowship with us;<br /> for our fellowship is with the Father<br /> and with his Son, Jesus Christ.<br /> We are writing this so that our joy may be complete.</p><p>From the Gospel according to John<br /> 20:1a and 2-8</p> <p>On the first day of the week,<br /> Mary Magdalene ran and went to Simon Peter<br /> and to the other disciple whom Jesus loved, and told them,<br /> &quot;They have taken the Lord from the tomb,<br /> and we do not know where they put him.&quot;<br /> So Peter and the other disciple went out and came to the tomb.<br /> They both ran, but the other disciple ran faster than Peter<br /> and arrived at the tomb first;<br /> he bent down and saw the burial cloths there, but did not go in.<br /> When Simon Peter arrived after him,<br /> he went into the tomb and saw the burial cloths there,<br /> and the cloth that had covered his head,<br /> not with the burial cloths but rolled up in a separate place.<br /> Then the other disciple also went in,<br /> the one who had arrived at the tomb first,<br /> and he saw and believed.</p><p>In the Gospel passage we have heard (cf. Jn 20:1-8), John recounts to us that unimaginable morning that forever changed human history. Let us imagine that morning: in the first light of dawn on the day after the Sabbath, near Jesus’ tomb, everyone sets off running. Mary Magdalene runs to inform the disciples; Peter and John run toward the sepulchre.... Everyone runs, everyone feels the urgent need to move: there is no time to lose; they must make haste.... (…)</p> <p>Jesus’ disciples run because they have received the news that Jesus’ body has disappeared from the tomb. The hearts of Mary Magdalene, Simon Peter and John are full of love and beat fervently after the separation that seemed definitive. Perhaps the hope of seeing the Lord’s face again is rekindled in them! As on that first day when he had promised: “Come and see” (Jn 1:39). The one who runs the fastest is John, certainly because he is the youngest, but also because he has not ceased hoping after he had seen, with his own eyes, Jesus die on the Cross; and also because he had been close to Mary, and thus he was ‘infected’ by her faith. When we feel that faith is waning or is lukewarm, let us go to her, Mary, and she will teach us; she will understand us; she will help us feel faith.&nbsp;(Pope Francis, Prayer Vigil with young Italians, 11 August 2018)</p> ]]>
+</description>
+</item>
+<item>
+<title>Gospel and Word of the Day - 26 December 2025</title>
+<pubDate>Fri, 26 Dec 2025 00:00:00 +0100</pubDate>
+<description>
+<![CDATA[ <p>A reading from the Boof of the Acts<br /> 6:8-10; 7:54-59</p> <p>Stephen, filled with grace and power,<br /> was working great wonders and signs among the people.<br /> Certain members of the so-called Synagogue of Freedmen,<br /> Cyrenians, and Alexandrians,<br /> and people from Cilicia and Asia,<br /> came forward and debated with Stephen,<br /> but they could not withstand the wisdom and the spirit with which he spoke.</p> <p>When they heard this, they were infuriated,<br /> and they ground their teeth at him.<br /> But he, filled with the Holy Spirit,<br /> looked up intently to heaven<br /> and saw the glory of God and Jesus standing at the right hand of God,<br /> and he said,<br /> &quot;Behold, I see the heavens opened and the Son of Man<br /> standing at the right hand of God.&quot;<br /> But they cried out in a loud voice, covered their ears,<br /> and rushed upon him together.<br /> They threw him out of the city, and began to stone him.<br /> The witnesses laid down their cloaks<br /> at the feet of a young man named Saul.<br /> As they were stoning Stephen, he called out<br /> &quot;Lord Jesus, receive my spirit.&quot;</p><p>From the Gospel according to Matthew<br /> 10:17-22</p> <p>Jesus said to his disciples:<br /> &quot;Beware of men, for they will hand you over to courts<br /> and scourge you in their synagogues,<br /> and you will be led before governors and kings for my sake<br /> as a witness before them and the pagans.<br /> When they hand you over,<br /> do not worry about how you are to speak<br /> or what you are to say.<br /> You will be given at that moment what you are to say.<br /> For it will not be you who speak<br /> but the Spirit of your Father speaking through you.<br /> Brother will hand over brother to death,<br /> and the father his child;<br /> children will rise up against parents and have them put to death.<br /> You will be hated by all because of my name,<br /> but whoever endures to the end will be saved.&quot;</p><p>The day after the&nbsp;Solemnity of Christmas, we are celebrating today the Feast of St Stephen, deacon and the first martyr. At first glance, the memory of the &quot;Protomartyr&quot; alongside the birth of the Redeemer can leave us perplexed due to the striking contrast between the peace and joy of Bethlehem and the drama of Stephen, stoned in Jerusalem in the first persecutions against the newborn Church. (…)&nbsp;St Stephen was the first to follow in the footsteps of Christ with his martyrdom. He died, like the divine Master, pardoning and praying for his killers (cf. Acts 7:&nbsp;60).&nbsp;In the first four centuries of Christianity, all the saints venerated by the Church were martyrs. They were a countless body that the liturgy calls &quot;the white-robed army of martyrs&quot;,&nbsp;<i>martyrum candidatus exercitus.&nbsp;</i>Their death did not rouse fear and sadness, but spiritual enthusiasm that gave rise to ever new Christians. For believers the day of death, and even more the day of martyrdom, is not the end of all; rather, it is the &quot;transit&quot; towards immortal life. It is the day of definitive birth, in Latin,&nbsp;<i>dies natalis.&nbsp;</i>The link that exists then between the&nbsp;<i>&quot;dies natalis&quot;&nbsp;</i>of Christ and the&nbsp;<i>dies natalis</i>&nbsp;of St Stephen is understood. If Jesus was not born on earth, humankind could not be born unto Heaven. Specifically, because Christ is born, we can be &quot;reborn&quot;! (Pope Benedict XVI, Angelus, 26 December 2006)</p> ]]>
+</description>
+</item>
+<item>
+<title>Gospel and Word of the Day - 25 December 2025</title>
+<pubDate>Thu, 25 Dec 2025 00:00:00 +0100</pubDate>
+<description>
+<![CDATA[ <p>A reading from the Book of Isaiah<br /> 52:7-10</p> <p>How beautiful upon the mountains<br /> are the feet of him who brings glad tidings,<br /> announcing peace, bearing good news,<br /> announcing salvation, and saying to Zion,<br /> “Your God is King!”</p> <p>Hark! Your sentinels raise a cry,<br /> together they shout for joy,<br /> for they see directly, before their eyes,<br /> the LORD restoring Zion.<br /> Break out together in song,<br /> O ruins of Jerusalem!<br /> For the LORD comforts his people,<br /> he redeems Jerusalem.<br /> The LORD has bared his holy arm<br /> in the sight of all the nations;<br /> all the ends of the earth will behold<br /> the salvation of our God.</p> <p>&nbsp;</p> <p>A reading from the Letter of St. Paul to the Hebrews<br /> 1:1-6</p> <p>Brothers and sisters:<br /> In times past, God spoke in partial and various ways<br /> to our ancestors through the prophets;<br /> in these last days, he has spoken to us through the Son,<br /> whom he made heir of all things<br /> and through whom he created the universe,<br /> who is the refulgence of his glory,<br /> the very imprint of his being,<br /> and who sustains all things by his mighty word.<br /> When he had accomplished purification from sins,<br /> he took his seat at the right hand of the Majesty on high,<br /> as far superior to the angels<br /> as the name he has inherited is more excellent than theirs.</p> <p>For to which of the angels did God ever say:<br /> You are my son; this day I have begotten you?<br /> Or again:<br /> I will be a father to him, and he shall be a son to me?<br /> And again, when he leads the firstborn into the world, he says:<br /> Let all the angels of God worship him.</p><p>From the Gospel according to John<br /> 1:1-18</p> <p>In the beginning was the Word,<br /> and the Word was with God,<br /> and the Word was God.<br /> He was in the beginning with God.<br /> All things came to be through him,<br /> and without him nothing came to be.<br /> What came to be through him was life,<br /> and this life was the light of the human race;<br /> the light shines in the darkness,<br /> and the darkness has not overcome it.<br /> A man named John was sent from God.<br /> He came for testimony, to testify to the light,<br /> so that all might believe through him.<br /> He was not the light,<br /> but came to testify to the light.<br /> The true light, which enlightens everyone, was coming into the world.<br /> He was in the world,<br /> and the world came to be through him,<br /> but the world did not know him.<br /> He came to what was his own,<br /> but his own people did not accept him.</p> <p>But to those who did accept him<br /> he gave power to become children of God,<br /> to those who believe in his name,<br /> who were born not by natural generation<br /> nor by human choice nor by a man’s decision<br /> but of God.<br /> And the Word became flesh<br /> and made his dwelling among us,<br /> and we saw his glory,<br /> the glory as of the Father’s only Son,<br /> full of grace and truth.<br /> John testified to him and cried out, saying,<br /> “This was he of whom I said,<br /> ‘The one who is coming after me ranks ahead of me<br /> because he existed before me.’”<br /> From his fullness we have all received,<br /> grace in place of grace,<br /> because while the law was given through Moses,<br /> grace and truth came through Jesus Christ.<br /> No one has ever seen God.<br /> The only Son, God, who is at the Father’s side,<br /> has revealed him.</p><p>“The true light, which enlightens everyone” – the Gospel tells us – “was coming into the world” (<i>Jn&nbsp;</i>1:9).</p> <p>Jesus is born in our midst; he is&nbsp;<i>God with us</i>. He comes to accompany our daily lives, to share with us in all things: our joys and sorrows, our hopes and fears. He comes as a helpless child. He is born in the cold night, poor among the poor. In need of everything, he knocks at the door of our heart to find warmth and shelter.</p> <p>Like the shepherds of Bethlehem, surrounded by light, may we&nbsp;set&nbsp;out to see the sign that God has given us. May we overcome our spiritual drowsiness and the shallow holiday glitter that makes us forget the One whose birth we are celebrating. Let us leave behind the hue and din that deadens our hearts and makes us spend more time in preparing decorations and gifts than in contemplating the great event: the Son of God born for us.</p> <p>Brothers and sisters, let us turn our eyes to Bethlehem, and listen to the first faint cries of the Prince of Peace. For truly Jesus&nbsp;<i>is our peace</i>. The peace that the world cannot give, the peace that God the Father has bestowed on humanity by sending his Son into the world. Saint Leo the Great summed up the message of this day in a concise Latin phrase:&nbsp;<i>Natalis Domini, natalis est pacis</i>: “the Lord’s birth is the birth of peace” (<i>Serm</i>. 26, 5).&nbsp;(Pope Francis, Message, Urbi et Orbi, 25 December 2022)</p> ]]>
+</description>
+</item>
+<item>
+<title>Gospel and Word of the Day - 24 December 2025</title>
+<pubDate>Wed, 24 Dec 2025 00:00:00 +0100</pubDate>
+<description>
+<![CDATA[ <p>A reading from the Second Book of&nbsp; Samuel<br /> 7:1-5, 8b-12, 14a, 16</p> <p>When King David was settled in his palace,<br /> and the LORD had given him rest from his enemies on every side,<br /> he said to Nathan the prophet,<br /> “Here I am living in a house of cedar,<br /> while the ark of God dwells in a tent!”<br /> Nathan answered the king,<br /> “Go, do whatever you have in mind,<br /> for the LORD is with you.”<br /> But that night the LORD spoke to Nathan and said:<br /> “Go, tell my servant David, ‘Thus says the LORD:<br /> Should you build me a house to dwell in?</p> <p>“‘It was I who took you from the pasture<br /> and from the care of the flock<br /> to be commander of my people Israel.<br /> I have been with you wherever you went,<br /> and I have destroyed all your enemies before you.<br /> And I will make you famous like the great ones of the earth.<br /> I will fix a place for my people Israel;<br /> I will plant them so that they may dwell in their place<br /> without further disturbance.<br /> Neither shall the wicked continue to afflict them as they did of old,<br /> since the time I first appointed judges over my people Israel.<br /> I will give you rest from all your enemies.<br /> The LORD also reveals to you<br /> that he will establish a house for you.<br /> And when your time comes and you rest with your ancestors,<br /> I will raise up your heir after you, sprung from your loins,<br /> and I will make his Kingdom firm.<br /> I will be a father to him,<br /> and he shall be a son to me.<br /> Your house and your Kingdom shall endure forever before me;<br /> your throne shall stand firm forever.’”</p><p>From the Gospel according to Luke<br /> 1:67-79</p> <p>Zechariah his father, filled with the Holy Spirit, prophesied, saying:</p> <p>“Blessed be the Lord, the God of Israel;<br /> for he has come to his people and set them free.<br /> He has raised up for us a mighty Savior,<br /> born of the house of his servant David.<br /> Through his prophets he promised of old<br /> that he would save us from our enemies,<br /> from the hands of all who hate us.<br /> He promised to show mercy to our fathers<br /> and to remember his holy covenant.<br /> This was the oath he swore to our father Abraham:<br /> to set us free from the hand of our enemies,<br /> free to worship him without fear,<br /> holy and righteous in his sight<br /> all the days of our life.<br /> You, my child, shall be called the prophet of the Most High,<br /> for you will go before the Lord to prepare his way,<br /> to give his people knowledge of salvation<br /> by the forgiveness of their sins.<br /> In the tender compassion of our God<br /> the dawn from on high shall break upon us,<br /> to shine on those who dwell in darkness and the shadow of death,<br /> and to guide our feet into the way of peace.”</p><p>The Feast of Christmas coincides with the days of the winter solstice, after which the daylight time gradually lengthens, in accordance with the sequence of the seasons. This helps us understand better the theme of light that overcomes the darkness. It is an evocative symbol of a reality that touches the innermost depths of the human being:&nbsp; I am referring to the light of good that triumphs over evil, the light of love that overcomes hatred, the light of life that defeats death. Christmas makes us think of this inner light, the divine light that returns to propose anew to us the proclamation of the definitive victory of God's love over sin and death. (…)</p> <p>&quot;O rising Star, splendour of eternal light, sun of justice: shine on those lost in the darkness of death!&quot;. Making our own this invocation (…), let us ask the Lord to hasten his glorious coming among us, among all those who are suffering, for in him alone can the genuine expectations of the human heart find fulfilment.&nbsp;(Pope Benedict XVI, General Audience, 21 December 2005)</p> ]]>
+</description>
+</item>
+<item>
+<title>Gospel and Word of the Day - 23 December 2025</title>
+<pubDate>Tue, 23 Dec 2025 00:00:00 +0100</pubDate>
+<description>
+<![CDATA[ <p>A reading from the Book of Malachi<br /> 3:1-4, 23-24</p> <p>Thus says the Lord GOD:<br /> Lo, I am sending my messenger<br /> to prepare the way before me;<br /> And suddenly there will come to the temple<br /> the LORD whom you seek,<br /> And the messenger of the covenant whom you desire.<br /> Yes, he is coming, says the LORD of hosts.<br /> But who will endure the day of his coming?<br /> And who can stand when he appears?<br /> For he is like the refiner’s fire,<br /> or like the fuller’s lye.<br /> He will sit refining and purifying silver,<br /> and he will purify the sons of Levi,<br /> Refining them like gold or like silver<br /> that they may offer due sacrifice to the LORD.<br /> Then the sacrifice of Judah and Jerusalem<br /> will please the LORD,<br /> as in the days of old, as in years gone by.</p> <p>Lo, I will send you<br /> Elijah, the prophet,<br /> Before the day of the LORD comes,<br /> the great and terrible day,<br /> To turn the hearts of the fathers to their children,<br /> and the hearts of the children to their fathers,<br /> Lest I come and strike<br /> the land with doom.</p><p>From the Gospel according to Luke<br /> 1:57-66</p> <p>When the time arrived for Elizabeth to have her child<br /> she gave birth to a son.<br /> Her neighbors and relatives heard<br /> that the Lord had shown his great mercy toward her,<br /> and they rejoiced with her.<br /> When they came on the eighth day to circumcise the child,<br /> they were going to call him Zechariah after his father,<br /> but his mother said in reply,<br /> “No. He will be called John.”<br /> But they answered her,<br /> “There is no one among your relatives who has this name.”<br /> So they made signs, asking his father what he wished him to be called.<br /> He asked for a tablet and wrote, “John is his name,”<br /> and all were amazed.<br /> Immediately his mouth was opened, his tongue freed,<br /> and he spoke blessing God.<br /> Then fear came upon all their neighbors,<br /> and all these matters were discussed<br /> throughout the hill country of Judea.<br /> All who heard these things took them to heart, saying,<br /> “What, then, will this child be?<br /> For surely the hand of the Lord was with him.”</p><p>The entire event of the birth of John the Baptist is surrounded by a&nbsp;<i>joyous sense of wonder, surprise and gratitude.&nbsp;</i>Wonder, surprise, gratitude. The people are filled with a holy fear of God “and all these things were talked about through all the hill country of Judea” (v. 65). (…)<b></b></p> <p>The faithful people sense that something great has occurred, even though it is humble and hidden, and they ask themselves: “What then will this child be?” (v. 66). The faithful People of God are able to live the faith with joy, with a sense of wonder, of surprise and of gratitude. We see those people who spoke well about this marvelous thing, this miracle of John’s birth, and they did so with joy, they were happy, with a sense of wonder, surprise and gratitude. And looking at this, let us ask ourselves: how is my faith? (…) &nbsp;Is it joyful? Is it open to God’s surprises? Because God is the God of surprises. Have I ‘tasted’ in my soul that sense of wonder which the presence of God brings, that sense of gratitude? Let us think about these words which are the moods of faith: joy, a sense of wonder, a sense of surprise and gratitude.&nbsp;(Pope Francis, Angelus, 24 June 2018)</p> ]]>
+</description>
+</item>
+<item>
+<title>Gospel and Word of the Day - 22 December 2025</title>
+<pubDate>Mon, 22 Dec 2025 00:00:00 +0100</pubDate>
+<description>
+<![CDATA[ <p>A reading from the Book of&nbsp; Samuel<br /> 1:24-28</p> <p>In those days,<br /> Hannah brought Samuel with her,<br /> along with a three-year-old bull,<br /> an ephah of flour, and a skin of wine,<br /> and presented him at the temple of the LORD in Shiloh.<br /> After the boy’s father had sacrificed the young bull,<br /> Hannah, his mother, approached Eli and said:<br /> “Pardon, my lord!<br /> As you live, my lord,<br /> I am the woman who stood near you here, praying to the LORD.<br /> I prayed for this child, and the LORD granted my request.<br /> Now I, in turn, give him to the LORD;<br /> as long as he lives, he shall be dedicated to the LORD.”<br /> She left Samuel there.</p><p>From the Gospel according to Luke<br /> 1:46-56</p> <p>Mary said:</p> <p>“My soul proclaims the greatness of the Lord;<br /> my spirit rejoices in God my savior.<br /> for he has looked upon his lowly servant.<br /> From this day all generations will call me blessed:<br /> the Almighty has done great things for me,<br /> and holy is his Name.<br /> He has mercy on those who fear him<br /> in every generation.<br /> He has shown the strength of his arm,<br /> and has scattered the proud in their conceit.<br /> He has cast down the mighty from their thrones<br /> and has lifted up the lowly.<br /> He has filled the hungry with good things,<br /> and the rich he has sent away empty.<br /> He has come to the help of his servant Israel<br /> for he remembered his promise of mercy,<br /> the promise he made to our fathers,<br /> to Abraham and his children for ever.”</p> <p>Mary remained with Elizabeth about three months<br /> and then returned to her home.</p><p>The&nbsp;<i>Magnificat</i>, which the Gospel places on the lips of the young Mary, now radiates the light of all her days. &nbsp;One single day — the day she met her cousin Elizabeth — contains the seed of every other day, of every other season. And words are not enough; a song is needed, one that continues to be sung in the Church “from generation to generation” (<i>Lk</i>&nbsp;1:50), at the close of every day. The surprising fruitfulness of barren Elizabeth confirmed Mary in her trust; it anticipated the fruitfulness of her “yes,” which extends to the fruitfulness of the Church and of all humanity whenever God’s renewing Word is welcomed. That day, two women met in faith, then stayed together for three months to support each other, not just in practical matters but in a new way of reading history. (…)<b></b></p> <p>Mary’s song,&nbsp;<i>Magnificat</i>, strengthens the hope of the humble, the hungry, the faithful servants of God. &nbsp;These are the men and women of the Beatitudes who, even in tribulation, already see the invisible: the mighty cast down from their thrones, the rich sent away empty, the promises of God fulfilled. Such experiences should be found in every Christian community. They may seem impossible, but God’s Word continues to be brought to light. When bonds are born, with which we confront evil with good and death with life, we see that nothing is impossible with God (cf.&nbsp;<i>Lk</i>&nbsp;1:37). (Pope Leo XIV, Homily, Solemnity of the Assumption of the Blessed Virgin Mary, 15 August 2025)</p> ]]>
+</description>
+</item>
+<item>
+<title>Gospel and Word of the Day - 21 December 2025</title>
+<pubDate>Sun, 21 Dec 2025 00:00:00 +0100</pubDate>
+<description>
+<![CDATA[ <p>A reading from the Book of Isaiah<br /> 7:10-14</p> <p>The LORD spoke to Ahaz, saying:<br /> Ask for a sign from the LORD, your God;<br /> let it be deep as the netherworld, or high as the sky!<br /> But Ahaz answered,<br /> &quot;I will not ask! I will not tempt the LORD!&quot;<br /> Then Isaiah said:<br /> Listen, O house of David!<br /> Is it not enough for you to weary people,<br /> must you also weary my God?<br /> Therefore the Lord himself will give you this sign:<br /> the virgin shall conceive, and bear a son,<br /> and shall name him Emmanuel.</p> <p>&nbsp;</p> <p>A reading from the Letter according to the Romans<br /> 1:1-7</p> <p>Paul, a slave of Christ Jesus,<br /> called to be an apostle and set apart for the gospel of God,<br /> which he promised previously through his prophets in the holy Scriptures,<br /> the gospel about his Son, descended from David according to the flesh,<br /> but established as Son of God in power<br /> according to the Spirit of holiness<br /> through resurrection from the dead, Jesus Christ our Lord.<br /> Through him we have received the grace of apostleship,<br /> to bring about the obedience of faith,<br /> for the sake of his name, among all the Gentiles,<br /> among whom are you also, who are called to belong to Jesus Christ;<br /> to all the beloved of God in Rome, called to be holy.<br /> Grace to you and peace from God our Father<br /> and the Lord Jesus Christ.</p><p>From the Gospel according to Matthew<br /> 1:18-24</p> <p>This is how the birth of Jesus Christ came about.<br /> When his mother Mary was betrothed to Joseph,<br /> but before they lived together,<br /> she was found with child through the Holy Spirit.<br /> Joseph her husband, since he was a righteous man,<br /> yet unwilling to expose her to shame,<br /> decided to divorce her quietly.<br /> Such was his intention when, behold,<br /> the angel of the Lord appeared to him in a dream and said,<br /> &quot;Joseph, son of David,<br /> do not be afraid to take Mary your wife into your home.<br /> For it is through the Holy Spirit<br /> that this child has been conceived in her.<br /> She will bear a son and you are to name him Jesus,<br /> because he will save his people from their sins.&quot;<br /> All this took place to fulfill what the Lord had said through the prophet:<br /> Behold, the virgin shall conceive and bear a son,<br /> and they shall name him Emmanuel,<br /> which means &quot;God is with us.&quot;<br /> When Joseph awoke,<br /> he did as the angel of the Lord had commanded him<br /> and took his wife into his home.</p><p>The Gospel says that Joseph was “just” precisely because he was subject to the law as any pious Israelite. But within him, his love for Mary and his trust in her suggested a way he could remain in observance of the law and save the honour of his bride. He decided to repudiate her in secret, without making noise, without subjecting her to public humiliation. He chose the path of confidentiality, without a trial or retaliation. How holy Joseph was!</p> <p>(…)&nbsp;God’s voice intervenes in Joseph’s discernment. In a dream, He reveals a greater meaning than his own justice. How important it is for each one of us to cultivate a just life and, at the same time, to always feel the need for God’s help to broaden our horizons and to consider the circumstances of life from an always different, larger perspective.<b></b></p> <p>(…)&nbsp;And Joseph’s risk gives us this lesson: to take life as it comes. Has God intervened there? I accept it. And Joseph does what the angel of the Lord had ordered.&nbsp;(Pope Francis, General Audience, 1 December 2021)</p> ]]>
+</description>
+</item>
+<item>
+<title>Gospel and Word of the Day - 20 December 2025</title>
+<pubDate>Sat, 20 Dec 2025 00:00:00 +0100</pubDate>
+<description>
+<![CDATA[ <p>A reading from the Book of Isaiah<br /> 7:10-14</p> <p>The LORD spoke to Ahaz:<br /> Ask for a sign from the LORD, your God;<br /> let it be deep as the nether world, or high as the sky!<br /> But Ahaz answered,<br /> “I will not ask! I will not tempt the LORD!”<br /> Then Isaiah said:<br /> Listen, O house of David!<br /> Is it not enough for you to weary men,<br /> must you also weary my God?<br /> Therefore the Lord himself will give you this sign:<br /> the virgin shall conceive and bear a son,<br /> and shall name him Emmanuel.</p><p>From the Gospel according to Luke<br /> 1:26-38</p> <p>In the sixth month,<br /> the angel Gabriel was sent from God<br /> to a town of Galilee called Nazareth,<br /> to a virgin betrothed to a man named Joseph,<br /> of the house of David,<br /> and the virgin’s name was Mary.<br /> And coming to her, he said,<br /> “Hail, full of grace! The Lord is with you.”<br /> But she was greatly troubled at what was said<br /> and pondered what sort of greeting this might be.<br /> Then the angel said to her,<br /> “Do not be afraid, Mary,<br /> for you have found favor with God.<br /> Behold, you will conceive in your womb and bear a son,<br /> and you shall name him Jesus.<br /> He will be great and will be called Son of the Most High,<br /> and the Lord God will give him the throne of David his father,<br /> and he will rule over the house of Jacob forever,<br /> and of his Kingdom there will be no end.”</p> <p>But Mary said to the angel,<br /> “How can this be,<br /> since I have no relations with a man?”<br /> And the angel said to her in reply,<br /> “The Holy Spirit will come upon you,<br /> and the power of the Most High will overshadow you.<br /> Therefore the child to be born<br /> will be called holy, the Son of God.<br /> And behold, Elizabeth, your relative,<br /> has also conceived a son in her old age,<br /> and this is the sixth month for her who was called barren;<br /> for nothing will be impossible for God.”</p> <p>Mary said, “Behold, I am the handmaid of the Lord.<br /> May it be done to me according to your word.”<br /> Then the angel departed from her.</p><p>Today, (…) the Gospel tells us about one of the most important, most beautiful moments in the history of humanity: the Annunciation (cf.&nbsp;<i>Lk</i>&nbsp;26-38), when Mary’s “yes” to the Archangel Gabriel permitted the Incarnation of the Son of God, Jesus. It is a scene that inspires the greatest wonder and emotion because God, the Most High, the Omnipotent, by means of the Angel converses with a young girl from Nazareth, asking for her collaboration for His plan of salvation. (…) As in the scene of the creation of Adam, painted by Michelangelo in the Sistine Chapel, where the finger of the heavenly Father touches the finger of the man; thus here too the human and the divine encounter each other, at the beginning of our Redemption, they meet with a wonderful delicacy, in the blessed instant in which the Virgin Mary utters her “yes”. She is a woman in a small peripheral village and is called for ever to the centre of history: on her answer depends the fate of humanity, which can smile and hope again, because its destiny has been placed in good hands. She will be the one to bear the Saviour, conceived by the Holy Spirit.&nbsp;(Pope Francis, Angelus, 8 December 2024)</p> ]]>
+</description>
+</item>
+<item>
+<title>Gospel and Word of the Day - 19 December 2025</title>
+<pubDate>Fri, 19 Dec 2025 00:00:00 +0100</pubDate>
+<description>
+<![CDATA[ <p>A reading from the Book of Judges<br /> 13:2-7, 24-25a</p> <p>There was a certain man from Zorah, of the clan of the Danites,<br /> whose name was Manoah.<br /> His wife was barren and had borne no children.<br /> An angel of the LORD appeared to the woman and said to her,<br /> “Though you are barren and have had no children,<br /> yet you will conceive and bear a son.<br /> Now, then, be careful to take no wine or strong drink<br /> and to eat nothing unclean.<br /> As for the son you will conceive and bear,<br /> no razor shall touch his head,<br /> for this boy is to be consecrated to God from the womb.<br /> It is he who will begin the deliverance of Israel<br /> from the power of the Philistines.”</p> <p>The woman went and told her husband,<br /> “A man of God came to me;<br /> he had the appearance of an angel of God, terrible indeed.<br /> I did not ask him where he came from, nor did he tell me his name.<br /> But he said to me,<br /> ‘You will be with child and will bear a son.<br /> So take neither wine nor strong drink, and eat nothing unclean.<br /> For the boy shall be consecrated to God from the womb,<br /> until the day of his death.’”</p> <p>The woman bore a son and named him Samson.<br /> The boy grew up and the LORD blessed him;<br /> the Spirit of the LORD stirred him.</p><p>From the Gospel according to Luke<br /> 1:5-25</p> <p>In the days of Herod, King of Judea,<br /> there was a priest named Zechariah<br /> of the priestly division of Abijah;<br /> his wife was from the daughters of Aaron,<br /> and her name was Elizabeth.<br /> Both were righteous in the eyes of God,<br /> observing all the commandments<br /> and ordinances of the Lord blamelessly.<br /> But they had no child, because Elizabeth was barren<br /> and both were advanced in years.</p> <p>Once when he was serving as priest<br /> in his division’s turn before God,<br /> according to the practice of the priestly service,<br /> he was chosen by lot<br /> to enter the sanctuary of the Lord to burn incense.<br /> Then, when the whole assembly of the people was praying outside<br /> at the hour of the incense offering,<br /> the angel of the Lord appeared to him,<br /> standing at the right of the altar of incense.<br /> Zechariah was troubled by what he saw, and fear came upon him.</p> <p>But the angel said to him, “Do not be afraid, Zechariah,<br /> because your prayer has been heard.<br /> Your wife Elizabeth will bear you a son,<br /> and you shall name him John.<br /> And you will have joy and gladness,<br /> and many will rejoice at his birth,<br /> for he will be great in the sight of the Lord.<br /> He will drink neither wine nor strong drink.<br /> He will be filled with the Holy Spirit even from his mother’s womb,<br /> and he will turn many of the children of Israel<br /> to the Lord their God.<br /> He will go before him in the spirit and power of Elijah<br /> to turn the hearts of fathers toward children<br /> and the disobedient to the understanding of the righteous,<br /> to prepare a people fit for the Lord.”</p> <p>Then Zechariah said to the angel,<br /> “How shall I know this?<br /> For I am an old man, and my wife is advanced in years.”<br /> And the angel said to him in reply,<br /> “I am Gabriel, who stand before God.<br /> I was sent to speak to you and to announce to you this good news.<br /> But now you will be speechless and unable to talk<br /> until the day these things take place,<br /> because you did not believe my words,<br /> which will be fulfilled at their proper time.”<br /> Meanwhile the people were waiting for Zechariah<br /> and were amazed that he stayed so long in the sanctuary.<br /> But when he came out, he was unable to speak to them,<br /> and they realized that he had seen a vision in the sanctuary.<br /> He was gesturing to them but remained mute.</p> <p>Then, when his days of ministry were completed, he went home.</p> <p>After this time his wife Elizabeth conceived,<br /> and she went into seclusion for five months, saying,<br /> “So has the Lord done for me at a time when he has seen fit<br /> to take away my disgrace before others.”</p><p>The contrast is obvious between Mary, who had faith, and Zechariah (…), who doubted, and did not believe the angel’s promise and therefore is left dumb until John’s birth. (…) This episode helps us to interpret the mystery of man’s encounter with God in a very special light. An encounter that is not characterized by astonishing miracles, but rather, is characterized by&nbsp;<i>faith&nbsp;</i>and&nbsp;<i>charity</i>: (…) without faith one remains inevitably deaf to the consoling voice of God; and incapable of speaking words of consolation and hope to our brothers and sisters. We see it every day: when people who have no faith, or who have very little faith, have to approach a person who is suffering, they speak words suited to the occasion, but they do not manage to touch the heart because they have no strength. (…) Faith, in its turn, is nourished by&nbsp;<i>charity</i>.&nbsp;(Pope Francis, Angelus, 23 December 2018)</p> ]]>
+</description>
+</item>
+<item>
+<title>Gospel and Word of the Day - 18 December 2025</title>
+<pubDate>Thu, 18 Dec 2025 00:00:00 +0100</pubDate>
+<description>
+<![CDATA[ <p>A reading from the Book of Jeremiah<br /> 23:5-8</p> <p>Behold, the days are coming, says the LORD,<br /> when I will raise up a righteous shoot to David;<br /> As king he shall reign and govern wisely,<br /> he shall do what is just and right in the land.<br /> In his days Judah shall be saved,<br /> Israel shall dwell in security.<br /> This is the name they give him:<br /> “The LORD our justice.”</p> <p>Therefore, the days will come, says the LORD,<br /> when they shall no longer say, “As the LORD lives,<br /> who brought the children of Israel out of the land of Egypt”;<br /> but rather, &quot;As the LORD lives,<br /> who brought the descendants of the house of Israel<br /> up from the land of the north”–<br /> and from all the lands to which I banished them;<br /> they shall again live on their own land.</p><p>From the Gospel according to Matthew<br /> 1:18-25</p> <p>This is how the birth of Jesus Christ came about.<br /> When his mother Mary was betrothed to Joseph,<br /> but before they lived together,<br /> she was found with child through the Holy Spirit.<br /> Joseph her husband, since he was a righteous man,<br /> yet unwilling to expose her to shame,<br /> decided to divorce her quietly.<br /> Such was his intention when, behold,<br /> the angel of the Lord appeared to him in a dream and said,<br /> “Joseph, son of David,<br /> do not be afraid to take Mary your wife into your home.<br /> For it is through the Holy Spirit<br /> that this child has been conceived in her.<br /> She will bear a son and you are to name him Jesus,<br /> because he will save his people from their sins.”<br /> All this took place to fulfill<br /> what the Lord had said through the prophet:</p> <p>Behold, the virgin shall be with child and bear a son,<br /> and they shall name him Emmanuel,</p> <p>which means “God is with us.”<br /> When Joseph awoke,<br /> he did as the angel of the Lord had commanded him<br /> and took his wife into his home.<br /> He had no relations with her until she bore a son,<br /> and he named him Jesus.</p><p>The Evangelist highlights that alone, Joseph cannot explain to himself the event which he sees taking place before his eyes, namely, Mary’s pregnancy. Just then, in that moment of doubt, even anguish, God approaches him — him too — through his messenger and [Joseph] is enlightened about the nature of this maternity: “the child conceived in her is of the Holy Spirit” (cf. v. 20). Thus, in facing this extraordinary event, which surely gave rise to many questions in his heart, he trusts totally in God who has drawn near to him, and after his invitation, does not repudiate his betrothed, but takes her to him and takes Mary to wife. In accepting Mary, Joseph knowingly and lovingly receives Him who has been conceived in her through the wondrous work of God, for whom nothing is impossible. Joseph, a just and humble man (cf. v. 19), teaches us to always trust in God, who draws near to us: when God approaches us, we must entrust ourselves to him. Joseph teaches us to allow ourselves to be guided by Him with willing obedience.&nbsp;(Pope Francis, Angelus, 18 December 2016)</p> ]]>
+</description>
+</item>
+<item>
+<title>Gospel and Word of the Day - 17 December 2025</title>
+<pubDate>Wed, 17 Dec 2025 00:00:00 +0100</pubDate>
+<description>
+<![CDATA[ <p>A reading from the Book of Genesis<br /> 49:2, 8-10</p> <p>Jacob called his sons and said to them:<br /> “Assemble and listen, sons of Jacob,<br /> listen to Israel, your father.</p> <p>“You, Judah, shall your brothers praise<br /> –your hand on the neck of your enemies;<br /> the sons of your father shall bow down to you.<br /> Judah, like a lion’s whelp,<br /> you have grown up on prey, my son.<br /> He crouches like a lion recumbent,<br /> the king of beasts–who would dare rouse him?<br /> The scepter shall never depart from Judah,<br /> or the mace from between his legs,<br /> While tribute is brought to him,<br /> and he receives the people’s homage.”</p><p>From the Gospel according to Matthew<br /> 1:1-17</p> <p>The book of the genealogy of Jesus Christ,<br /> the son of David, the son of Abraham.</p> <p>Abraham became the father of Isaac,<br /> Isaac the father of Jacob,<br /> Jacob the father of Judah and his brothers.<br /> Judah became the father of Perez and Zerah,<br /> whose mother was Tamar.<br /> Perez became the father of Hezron,<br /> Hezron the father of Ram,<br /> Ram the father of Amminadab.<br /> Amminadab became the father of Nahshon,<br /> Nahshon the father of Salmon,<br /> Salmon the father of Boaz,<br /> whose mother was Rahab.<br /> Boaz became the father of Obed,<br /> whose mother was Ruth.<br /> Obed became the father of Jesse,<br /> Jesse the father of David the king.</p> <p>David became the father of Solomon,<br /> whose mother had been the wife of Uriah.<br /> Solomon became the father of Rehoboam,<br /> Rehoboam the father of Abijah,<br /> Abijah the father of Asaph.<br /> Asaph became the father of Jehoshaphat,<br /> Jehoshaphat the father of Joram,<br /> Joram the father of Uzziah.<br /> Uzziah became the father of Jotham,<br /> Jotham the father of Ahaz,<br /> Ahaz the father of Hezekiah.<br /> Hezekiah became the father of Manasseh,<br /> Manasseh the father of Amos,<br /> Amos the father of Josiah.<br /> Josiah became the father of Jechoniah and his brothers<br /> at the time of the Babylonian exile.</p> <p>After the Babylonian exile,<br /> Jechoniah became the father of Shealtiel,<br /> Shealtiel the father of Zerubbabel,<br /> Zerubbabel the father of Abiud.<br /> Abiud became the father of Eliakim,<br /> Eliakim the father of Azor,<br /> Azor the father of Zadok.<br /> Zadok became the father of Achim,<br /> Achim the father of Eliud,<br /> Eliud the father of Eleazar.<br /> Eleazar became the father of Matthan,<br /> Matthan the father of Jacob,<br /> Jacob the father of Joseph, the husband of Mary.<br /> Of her was born Jesus who is called the Christ.</p> <p>Thus the total number of generations<br /> from Abraham to David<br /> is fourteen generations;<br /> from David to the Babylonian exile, fourteen generations;<br /> from the Babylonian exile to the Christ,<br /> fourteen generations.</p><p>Matthew begins His Gospel and the entire New Testament canon with the ‘genealogy of Jesus Christ, the son of David, the son of Abraham’ (<i>Mt</i>&nbsp;1:1).&nbsp;It is a list of names already present in the Hebrew Scriptures, to show the truth of history and the truth of human life. In fact, “the Lord’s genealogy consists of the true story that includes a number of figures who are problematic to say the least, and the sin of King David is also emphasized (cf.&nbsp;<i>Mt</i>&nbsp;1:6). Yet, everything culminates with Mary and Christ (cf.&nbsp;<i>Mt</i>&nbsp;1:16)” Then, there appears the truth of human life that passes from one generation to the next, bringing three things: a name that encompasses a unique identity and mission; belonging to a family and a people; and finally, the adherence of faith to the God of Israel.&nbsp;Genealogy is a literary genre, that is, a form suitable for conveying a very important message: no one gives life to himself, but receives it as a gift from others. In this case, the chosen people, and those who inherit the legacy.&nbsp;(Pope Francis, General Audience, 18 December 2024)</p> ]]>
+</description>
+</item>
+<item>
+<title>Gospel and Word of the Day - 16 December 2025</title>
+<pubDate>Tue, 16 Dec 2025 00:00:00 +0100</pubDate>
+<description>
+<![CDATA[ <p>A reading from the Book of Zephaniah<br /> 3:1-2, 9-13</p> <p>Thus says the LORD:<br /> Woe to the city, rebellious and polluted,<br /> to the tyrannical city!<br /> She hears no voice,<br /> accepts no correction;<br /> In the LORD she has not trusted,<br /> to her God she has not drawn near.</p> <p>For then I will change and purify<br /> the lips of the peoples,<br /> That they all may call upon the name of the LORD,<br /> to serve him with one accord;<br /> From beyond the rivers of Ethiopia<br /> and as far as the recesses of the North,<br /> they shall bring me offerings.</p> <p>On that day<br /> You need not be ashamed<br /> of all your deeds,<br /> your rebellious actions against me;<br /> For then will I remove from your midst<br /> the proud braggarts,<br /> And you shall no longer exalt yourself<br /> on my holy mountain.<br /> But I will leave as a remnant in your midst<br /> a people humble and lowly,<br /> Who shall take refuge in the name of the LORD:<br /> the remnant of Israel.<br /> They shall do no wrong<br /> and speak no lies;<br /> Nor shall there be found in their mouths<br /> a deceitful tongue;<br /> They shall pasture and couch their flocks<br /> with none to disturb them.</p><p>From the Gospel according to Matthew<br /> 21:28-32</p> <p>Jesus said to the chief priests and the elders of the people:<br /> “What is your opinion?<br /> A man had two sons.<br /> He came to the first and said,<br /> ‘Son, go out and work in the vineyard today.’<br /> The son said in reply, ‘I will not,’<br /> but afterwards he changed his mind and went.<br /> The man came to the other son and gave the same order.<br /> He said in reply, ‘Yes, sir,’ but did not go.<br /> Which of the two did his father’s will?”<br /> They answered, “The first.”<br /> Jesus said to them, “Amen, I say to you,<br /> tax collectors and prostitutes<br /> are entering the Kingdom of God before you.<br /> When John came to you in the way of righteousness,<br /> you did not believe him;<br /> but tax collectors and prostitutes did.<br /> Yet even when you saw that,<br /> you did not later change your minds and believe him.”</p><p>With his preaching on the Kingdom of God, Jesus opposes a religiosity that does not involve human life, that does not question the conscience and its responsibility in the face of good and evil. He also demonstrates this with the parable of the two sons, which is offered to us in the Gospel of Matthew (cf. 21:28-32). To the father’s invitation to go and work in the vineyard, the first son impulsively responds “no, I’m not going”, but then he repents and goes; instead the second son, who immediately replies “yes, yes dad”, does not actually do so; he doesn’t go. Obedience does not consist in saying “yes” or “no”, but always in taking action, in cultivating the vineyard, in bringing about the Kingdom of God, in doing good. With this simple example, Jesus wants to go beyond a religion understood only as an external and habitual practice, which does not affect people’s lives and attitudes, a superficial religiosity, merely “ritual”, in the ugly sense of the word.&nbsp;(Pope Francis, Angelus, 27 September 2020)</p> ]]>
+</description>
+</item>
+<item>
+<title>Gospel and Word of the Day - 15 December 2025</title>
+<pubDate>Mon, 15 Dec 2025 00:00:00 +0100</pubDate>
+<description>
+<![CDATA[ <p>A reading from the Book of Numbers<br /> 24:2-7, 15-17a</p> <p>When Balaam raised his eyes and saw Israel encamped, tribe by tribe,<br /> the spirit of God came upon him,<br /> and he gave voice to his oracle:</p> <p>The utterance of Balaam, son of Beor,<br /> the utterance of a man whose eye is true,<br /> The utterance of one who hears what God says,<br /> and knows what the Most High knows,<br /> Of one who sees what the Almighty sees,<br /> enraptured, and with eyes unveiled:<br /> How goodly are your tents, O Jacob;<br /> your encampments, O Israel!<br /> They are like gardens beside a stream,<br /> like the cedars planted by the LORD.<br /> His wells shall yield free-flowing waters,<br /> he shall have the sea within reach;<br /> His king shall rise higher,<br /> and his royalty shall be exalted.</p> <p>Then Balaam gave voice to his oracle:</p> <p>The utterance of Balaam, son of Beor,<br /> the utterance of the man whose eye is true,<br /> The utterance of one who hears what God says,<br /> and knows what the Most High knows,<br /> Of one who sees what the Almighty sees,<br /> enraptured, and with eyes unveiled.<br /> I see him, though not now;<br /> I behold him, though not near:<br /> A star shall advance from Jacob,<br /> and a staff shall rise from Israel.</p><p>From the Gospel according to Matthew<br /> 21:23-27</p> <p>When Jesus had come into the temple area,<br /> the chief priests and the elders of the people approached him<br /> as he was teaching and said,<br /> &quot;By what authority are you doing these things?<br /> And who gave you this authority?&quot;<br /> Jesus said to them in reply,<br /> &quot;I shall ask you one question, and if you answer it for me,<br /> then I shall tell you by what authority I do these things.<br /> Where was John's baptism from?<br /> Was it of heavenly or of human origin?&quot;<br /> They discussed this among themselves and said,<br /> &quot;If we say 'Of heavenly origin,' he will say to us,<br /> 'Then why did you not believe him?'<br /> But if we say, 'Of human origin,' we fear the crowd,<br /> for they all regard John as a prophet.&quot;<br /> So they said to Jesus in reply, &quot;We do not know.&quot;<br /> He himself said to them,<br /> &quot;Neither shall I tell you by what authority I do these things.&quot;</p><p>What authority does Jesus have? It is the Lord's style, that ‘lordship’ - so to speak - with which the Lord moved, taught, healed, and listened. What does this style of the Lord - which comes from within - reveal? Consistency. Jesus had authority because he was consistent between what he taught and what he did, that is, how he lived. That consistency is what gives expression to a person who has authority: “This person has authority, that person has authority, because they are consistent,” that is, they bear witness.&nbsp;Authority is seen in this: consistency and witness.&nbsp; (Pope Francis, Santa Marta, 14 January 2020)</p> ]]>
+</description>
+</item>
+<item>
+<title>Gospel and Word of the Day - 14 December 2025</title>
+<pubDate>Sun, 14 Dec 2025 00:00:00 +0100</pubDate>
+<description>
+<![CDATA[ <p>A reading from the Book of Isaiah<br /> 35:1-6a, 10<br /> <br /> The desert and the parched land will exult;<br /> the steppe will rejoice and bloom.<br /> They will bloom with abundant flowers,<br /> and rejoice with joyful song.<br /> The glory of Lebanon will be given to them,<br /> the splendor of Carmel and Sharon;<br /> they will see the glory of the LORD,<br /> the splendor of our God.<br /> Strengthen the hands that are feeble,<br /> make firm the knees that are weak,<br /> say to those whose hearts are frightened:<br /> Be strong, fear not!<br /> Here is your God,<br /> he comes with vindication;<br /> with divine recompense<br /> he comes to save you.<br /> Then will the eyes of the blind be opened,<br /> the ears of the deaf be cleared;<br /> then will the lame leap like a stag,<br /> then the tongue of the mute will sing.</p> <p>Those whom the LORD has ransomed will return<br /> and enter Zion singing,<br /> crowned with everlasting joy;<br /> they will meet with joy and gladness,<br /> sorrow and mourning will flee.</p> <p>&nbsp;</p> <p>A reading from the Letter of James<br /> 5:7-10</p> <p>Be patient, brothers and sisters,<br /> until the coming of the Lord.<br /> See how the farmer waits for the precious fruit of the earth,<br /> being patient with it<br /> until it receives the early and the late rains.<br /> You too must be patient.<br /> Make your hearts firm,<br /> because the coming of the Lord is at hand.<br /> Do not complain, brothers and sisters, about one another,<br /> that you may not be judged.<br /> Behold, the Judge is standing before the gates.<br /> Take as an example of hardship and patience, brothers and sisters,<br /> the prophets who spoke in the name of the Lord.</p><p>From the Gospel according to Matthew<br /> 11:2-11</p> <p>When John the Baptist heard in prison of the works of the Christ,<br /> he sent his disciples to Jesus with this question,<br /> &quot;Are you the one who is to come,<br /> or should we look for another?&quot;<br /> Jesus said to them in reply,<br /> &quot;Go and tell John what you hear and see:<br /> the blind regain their sight,<br /> the lame walk,<br /> lepers are cleansed,<br /> the deaf hear,<br /> the dead are raised,<br /> and the poor have the good news proclaimed to them.<br /> And blessed is the one who takes no offense at me.&quot;</p> <p>As they were going off,<br /> Jesus began to speak to the crowds about John,<br /> &quot;What did you go out to the desert to see?<br /> A reed swayed by the wind?<br /> Then what did you go out to see?<br /> Someone dressed in fine clothing?<br /> Those who wear fine clothing are in royal palaces.<br /> Then why did you go out? To see a prophet?<br /> Yes, I tell you, and more than a prophet.<br /> This is the one about whom it is written:<br /> Behold, I am sending my messenger ahead of you;<br /> he will prepare your way before you.<br /> Amen, I say to you,<br /> among those born of women<br /> there has been none greater than John the Baptist;<br /> yet the least in the kingdom of heaven is greater than he.&quot;</p><p>John, hearing of Jesus’ works, is seized with doubt as to whether He is really the Messiah or not. (…) The text emphasizes that John is in prison, and this, as well as being a physical place, makes us think of the inner situation he is experiencing: in prison there is darkness, there is no possibility of seeing clearly and seeing beyond it. In effect, the Baptist is no longer able to recognize Jesus as the awaited Messiah. He is assailed by doubt, and he sends the disciples to check: “Go and see if he is the Messiah or not”. (…)</p> <p>But this means that even the greatest believer goes through the tunnel of doubt. And this is not a bad thing; on the contrary, sometimes it is essential for spiritual growth: it helps us understand that God is always greater than we imagine Him to be. His works are surprising compared to our calculations; His actions are different, always, they exceed our needs and expectations; and therefore, we must never stop seeking Him and converting to His true face. (…) This is what the Baptist does: in doubt, he still seeks Him, questions Him, “argues” with Him and finally rediscovers Him. John, defined by Jesus as the greatest among those born of women (cf.&nbsp;<i>Mt</i>&nbsp;11:11), teaches us, in short, not to close God within our own mindsets. This is always the danger, the temptation: to make ourselves a God to our measure, a God to use.&nbsp;And God is something else. (Pope Francis, Angelus, 11 December 2022)</p> ]]>
+</description>
+</item>
+<item>
+<title>Gospel and Word of the Day - 13 December 2025</title>
+<pubDate>Sat, 13 Dec 2025 00:00:00 +0100</pubDate>
+<description>
+<![CDATA[ <p>A reading from the Book of Sirach<br /> 48:1-4, 9-11</p> <p>In those days,<br /> like a fire there appeared the prophet Elijah<br /> whose words were as a flaming furnace.<br /> Their staff of bread he shattered,<br /> in his zeal he reduced them to straits;<br /> By the Lord's word he shut up the heavens<br /> and three times brought down fire.<br /> How awesome are you, Elijah, in your wondrous deeds!<br /> Whose glory is equal to yours?<br /> You were taken aloft in a whirlwind of fire,<br /> in a chariot with fiery horses.<br /> You were destined, it is written, in time to come<br /> to put an end to wrath before the day of the LORD,<br /> To turn back the hearts of fathers toward their sons,<br /> and to re-establish the tribes of Jacob.<br /> Blessed is he who shall have seen you<br /> and who falls asleep in your friendship.</p><p>From the Gospel according to Matthew<br /> 17:9a, 10-13</p> <p>As they were coming down from the mountain,<br /> the disciples asked Jesus,<br /> &quot;Why do the scribes say that Elijah must come first?&quot;<br /> He said in reply, &quot;Elijah will indeed come and restore all things;<br /> but I tell you that Elijah has already come,<br /> and they did not recognize him but did to him whatever they pleased.<br /> So also will the Son of Man suffer at their hands.&quot;<br /> Then the disciples understood<br /> that he was speaking to them of John the Baptist.</p><p>Having accomplished his mission, John knows how to step aside, he withdraws from the scene to make way for Jesus. (…)&nbsp;He is not interested in having a following for himself, in gaining prestige and success, but rather bears witness and then takes a step back, so that many would have the joy of meeting Jesus. We can say: he opens the door, then he leaves. With this spirit of service, with his capacity to give way to Jesus, John the Baptist teaches us an important thing:&nbsp;<i>freedom from attachments</i>. Yes, because it is easy to become attached to roles and positions, to the need to be esteemed, recognized and rewarded. And this, although natural, is not a good thing, because service involves gratuitousness. (…)&nbsp;It is good for us, too, to cultivate, like John, the virtue of setting ourselves aside at the right moment (…) To step aside, to learn to take one’s leave: I have completed this mission, I have had this meeting, I will step aside and leave room for the Lord.&nbsp;(Pope Francis, Angelus, 15 January 2023)</p> ]]>
+</description>
+</item>
+</channel></rss>
+`;
+
+// Helper: Parse XML RSS to JSON
+const parseVaticanRSS = () => {
+    try {
+        const parser = new DOMParser();
+        const xmlDoc = parser.parseFromString(VATICAN_RSS_SOURCE, "text/xml");
+        const items = Array.from(xmlDoc.querySelectorAll("item"));
+        
+        return items.map(item => {
+            const pubDateStr = item.querySelector("pubDate")?.textContent || "";
+            const dateObj = new Date(pubDateStr);
+            const dateKey = dateObj.toISOString().split('T')[0]; // YYYY-MM-DD
+            
+            return {
+                dateKey: dateKey,
+                title: item.querySelector("title")?.textContent || "",
+                description: item.querySelector("description")?.textContent || "", // Contains HTML
+                pubDate: pubDateStr
+            };
+        });
+    } catch (e) {
+        console.error("RSS Parsing Error", e);
+        return [];
+    }
+};
+
+// ==========================================
+// BAGIAN 4: COMPONENTS
+// ==========================================
+
+const MorningPrayer = () => {
+    const [timerActive, setTimerActive] = useState(false);
+    const [timeLeft, setTimeLeft] = useState(30);
+    const [showTimerUI, setShowTimerUI] = useState(false);
+
+    useEffect(() => {
+        let interval: any;
+        if (timerActive && timeLeft > 0) {
+            interval = setInterval(() => {
+                setTimeLeft((prev) => prev - 1);
+            }, 1000);
+        } else if (timeLeft === 0) {
+            setTimerActive(false);
+        }
+        return () => clearInterval(interval);
+    }, [timerActive, timeLeft]);
+
+    const startSilence = () => {
+        setTimeLeft(30);
+        setShowTimerUI(true);
+        setTimerActive(true);
+    };
+
+    return (
+        <section className="mt-8 p-6 bg-white rounded-2xl shadow-sm border border-gray-100 text-center max-w-2xl mx-auto w-full">
+            <h2 className="text-xl font-semibold mb-4 text-gray-800 flex items-center justify-center gap-2">
+                🙏 Doa Pagi Kelas
+            </h2>
+            <p className="mb-6 italic text-gray-600 leading-relaxed font-serif">
+                "Ya Tuhan, pada pagi hari ini kami menyerahkan seluruh kegiatan belajar kami kepada-Mu.
+                Berkatilah guru dan teman-teman kami, agar kami belajar dengan tekun, jujur, dan penuh kasih.
+                Amin."
+            </p>
+            <div className="flex flex-wrap justify-center gap-3 mb-4">
+                <button 
+                    onClick={startSilence}
+                    disabled={timerActive}
+                    className={`px-4 py-2 rounded-xl flex items-center gap-2 transition-all ${
+                        timerActive ? 'bg-gray-100 text-gray-400' : 'bg-blue-600 text-white hover:bg-blue-700 shadow-lg hover:shadow-blue-200'
+                    }`}
+                >
+                    🤫 Mode Hening 30 Detik
+                </button>
+            </div>
+            {showTimerUI && (
+                <div className={`mt-4 p-4 rounded-xl transition-all duration-500 ${timeLeft === 0 ? 'bg-green-50 text-green-700' : 'bg-blue-50 text-blue-700'}`}>
+                    {timeLeft > 0 ? (
+                        <div className="text-2xl font-bold font-mono animate-pulse">⏳ Hening: {timeLeft} detik</div>
+                    ) : (
+                        <div className="flex flex-col items-center gap-1 animate-in zoom-in">
+                            <span className="text-2xl">🔔</span>
+                            <span className="font-bold">Hening selesai.</span>
+                        </div>
+                    )}
+                </div>
+            )}
+        </section>
+    );
+};
+
+// --- KOMPONEN VATICAN NEWS DENGAN LIVE FETCH ---
+const VaticanNewsSection = ({ currentDate }: { currentDate: Date }) => {
+    const todayString = currentDate.toISOString().split('T')[0];
+    const [rssData, setRssData] = useState<any[]>([]);
+    const [loading, setLoading] = useState(true);
+    const [sourceType, setSourceType] = useState<'LIVE' | 'CACHE'>('CACHE');
+
+    // Fetch RSS Data Effect
+    useEffect(() => {
+        const fetchRSS = async () => {
+            setLoading(true);
+            try {
+                // Gunakan AllOrigins sebagai CORS Proxy untuk membaca XML dari Vatikan
+                const proxyUrl = `https://api.allorigins.win/get?url=${encodeURIComponent(VATICAN_RSS_URL)}`;
+                const response = await fetch(proxyUrl);
+                const data = await response.json();
+                
+                if (data.contents) {
+                    parseXML(data.contents, 'LIVE');
+                } else {
+                    throw new Error("No content from proxy");
+                }
+            } catch (err) {
+                console.warn("Live fetch failed, using fallback:", err);
+                parseXML(VATICAN_FALLBACK_DATA, 'CACHE');
+            } finally {
+                setLoading(false);
+            }
+        };
+
+        fetchRSS();
+    }, []);
+
+    const parseXML = (xmlString: string, type: 'LIVE' | 'CACHE') => {
+        try {
+            const parser = new DOMParser();
+            const xmlDoc = parser.parseFromString(xmlString, "text/xml");
+            const items = Array.from(xmlDoc.querySelectorAll("item"));
+            
+            const parsedItems = items.map(item => {
+                const pubDateStr = item.querySelector("pubDate")?.textContent || "";
+                const dateObj = new Date(pubDateStr);
+                const dateKey = dateObj.toISOString().split('T')[0];
+                
+                return {
+                    dateKey: dateKey,
+                    title: item.querySelector("title")?.textContent || "",
+                    description: item.querySelector("description")?.textContent || "",
+                    pubDate: pubDateStr
+                };
+            });
+            setRssData(parsedItems);
+            setSourceType(type);
+        } catch (e) {
+            console.error("XML Parsing Error", e);
+        }
+    };
+
+    // Filter logic
+    const activeNews = rssData.find(news => news.dateKey === todayString);
+    const latestNews = rssData[0]; 
+    const displayNews = activeNews || latestNews;
+
+    return (
+        <div className="p-6 md:p-10 animate-in slide-in-from-bottom duration-500 bg-white min-h-[400px]">
+            <div className="flex items-center justify-between mb-6 border-b border-yellow-100 pb-2">
+                <div className="flex items-center gap-2 text-sm font-bold text-yellow-600 uppercase tracking-widest">
+                    <Rss size={16} /> Vatican News • Word of the Day
+                </div>
+                <div className="flex items-center gap-2 text-[10px] font-mono text-gray-400">
+                    {loading ? <Loader2 className="animate-spin" size={12}/> : 
+                     sourceType === 'LIVE' ? <span className="text-green-500 flex items-center gap-1">● LIVE</span> : 
+                     <span className="text-orange-500 flex items-center gap-1">● CACHE</span>}
+                </div>
+            </div>
+            
+            {loading ? (
+                <div className="flex flex-col items-center justify-center h-48 space-y-4 text-gray-400">
+                    <Loader2 className="animate-spin text-yellow-500" size={32} />
+                    <p className="text-sm">Menghubungkan ke Vatikan...</p>
+                </div>
+            ) : !displayNews ? (
+                <div className="text-center text-gray-500 py-12">Data tidak tersedia untuk tanggal ini.</div>
+            ) : (
+                <>
+                    <h2 className="text-2xl md:text-3xl font-serif font-bold text-gray-800 mb-2">
+                        {displayNews.title}
+                    </h2>
+                    <p className="text-sm text-gray-500 mb-6 flex items-center gap-2">
+                        <Calendar size={14}/> {displayNews.pubDate}
+                        {!activeNews && <span className="text-red-500 bg-red-50 px-2 py-0.5 rounded-full text-[10px] ml-2 font-bold uppercase tracking-wide">Arsip Terbaru</span>}
+                    </p>
+
+                    <div className="prose prose-stone max-w-none prose-p:text-gray-700 prose-p:leading-relaxed prose-headings:font-serif prose-headings:text-gray-900 prose-a:text-yellow-600">
+                        <div dangerouslySetInnerHTML={{ __html: displayNews.description }} />
+                    </div>
+
+                    <div className="mt-8 pt-4 border-t border-gray-100 text-center">
+                        <a href="https://www.vaticannews.va/en/word-of-the-day.html" target="_blank" rel="noreferrer" className="inline-flex items-center gap-2 text-blue-600 hover:text-blue-800 text-sm font-medium transition-colors hover:underline">
+                            Baca selengkapnya di Vatican News <Globe size={14} />
+                        </a>
+                    </div>
+                </>
+            )}
+        </div>
+    );
+};
+
+// ==========================================
+// BAGIAN 5: MAIN APP
+// ==========================================
+
+export default function PerpetualLiturgicalCalendar() {
+  const [currentDate, setCurrentDate] = useState(new Date("2025-12-25")); 
+  const [viewMode, setViewMode] = useState<'APP' | 'VATICAN' | 'WEB'>('APP');
+
+  const liturgicalData = useMemo(() => {
+    const year = currentDate.getFullYear();
+    const sundayCycle = LiturgicalEngine.getSundayCycle(year); 
+    const weekdayCycle = LiturgicalEngine.getWeekdayCycle(year); 
+    const dayDetails = LiturgicalEngine.getLiturgicalDayDetails(currentDate);
+    const contentData = getContentForDay(dayDetails.season, currentDate);
+
+    return {
+      title: dayDetails.name,
+      quote: contentData.quote,
+      refleksi: contentData.refleksi,
+      doa: contentData.doa,
+      color: dayDetails.color,
+      extraInfo: `Tahun ${sundayCycle} / ${weekdayCycle}`,
+      seasonCode: dayDetails.season
+    };
+  }, [currentDate]);
+
+  const getThemeClasses = (color: string) => {
+    switch(color) {
+      case 'purple': return { bg: 'bg-fuchsia-50', text: 'text-fuchsia-800', border: 'border-fuchsia-300', icon: 'text-fuchsia-600' };
+      case 'red': return { bg: 'bg-rose-50', text: 'text-rose-800', border: 'border-rose-300', icon: 'text-rose-600' };
+      case 'green': return { bg: 'bg-emerald-50', text: 'text-emerald-800', border: 'border-emerald-300', icon: 'text-emerald-600' };
+      default: return { bg: 'bg-amber-50', text: 'text-amber-800', border: 'border-amber-300', icon: 'text-amber-600' }; 
+    }
+  };
+
+  const theme = getThemeClasses(liturgicalData.color);
+
+  const handlePrevDay = () => { const d = new Date(currentDate); d.setDate(d.getDate() - 1); setCurrentDate(d); };
+  const handleNextDay = () => { const d = new Date(currentDate); d.setDate(d.getDate() + 1); setCurrentDate(d); };
+
+  return (
+    <div className={`min-h-screen ${theme.bg} transition-colors duration-500 flex flex-col items-center justify-start py-8 px-4 font-sans`}>
+      
+      <div className="w-full max-w-3xl mb-6 text-center space-y-2">
+        <h1 className="text-3xl md:text-4xl font-serif font-bold text-gray-800 tracking-wide flex items-center justify-center gap-3">
+          <Calendar className={theme.icon} size={32} /> 
+          <span>Liturgia Sekolah</span>
+        </h1>
+        <p className="text-gray-600 italic text-sm">
+          "Sahabat Spiritual Siswa & Guru Sepanjang Tahun"
+        </p>
+      </div>
+
+      <div className={`w-full max-w-3xl bg-white rounded-2xl shadow-xl overflow-hidden border-t-4 ${theme.border} flex flex-col`}>
+        
+        <div className="bg-gray-50 px-4 py-2 border-b border-gray-100 flex justify-between items-center text-xs text-gray-500 font-mono">
+            <span>Siklus: <strong>{liturgicalData.extraInfo}</strong></span>
+            <span className={`px-2 py-0.5 rounded-full text-white text-[10px] uppercase font-bold bg-${theme.icon.split('-')[1]}-500`}>
+                {liturgicalData.seasonCode}
+            </span>
+        </div>
+
+        <div className="flex items-center justify-between p-4 border-b border-gray-100 bg-white/80 backdrop-blur-sm sticky top-0 z-10">
+          <button onClick={handlePrevDay} className={`p-2 rounded-full hover:bg-gray-100 transition-colors ${theme.icon}`}>
+            <ChevronLeft size={28} />
+          </button>
+          
+          <div className="flex flex-col items-center">
+            <span className={`text-xs font-bold tracking-widest uppercase px-3 py-1 rounded-full ${theme.bg} ${theme.text} mb-1 border ${theme.border}`}>
+              {liturgicalData.title}
+            </span>
+            <span className="text-xl font-medium text-gray-800 text-center leading-tight mt-1">
+              {currentDate.toLocaleDateString('id-ID', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' })}
+            </span>
+          </div>
+
+          <button onClick={handleNextDay} className={`p-2 rounded-full hover:bg-gray-100 transition-colors ${theme.icon}`}>
+            <ChevronRight size={28} />
+          </button>
+        </div>
+
+        {/* Tab Switcher */}
+        <div className="flex flex-wrap p-2 gap-2 bg-gray-50 border-b border-gray-100 justify-center">
+            <button
+                onClick={() => setViewMode('APP')}
+                className={`flex-1 min-w-[100px] flex items-center justify-center gap-2 px-3 py-2 rounded-lg text-xs md:text-sm font-medium transition-all duration-300 ${viewMode === 'APP' ? 'bg-white shadow-sm text-gray-800 border border-gray-200' : 'text-gray-500 hover:bg-gray-100'}`}
+            >
+                <Clock size={16} />
+                Refleksi Sekolah
+            </button>
+            <button
+                onClick={() => setViewMode('VATICAN')}
+                className={`flex-1 min-w-[100px] flex items-center justify-center gap-2 px-3 py-2 rounded-lg text-xs md:text-sm font-medium transition-all duration-300 ${viewMode === 'VATICAN' ? 'bg-white shadow-sm text-yellow-700 border border-yellow-200' : 'text-gray-500 hover:bg-gray-100'}`}
+            >
+                <Rss size={16} />
+                Vatican Word
+            </button>
+            <button
+                onClick={() => setViewMode('WEB')}
+                className={`flex-1 min-w-[100px] flex items-center justify-center gap-2 px-3 py-2 rounded-lg text-xs md:text-sm font-medium transition-all duration-300 ${viewMode === 'WEB' ? 'bg-white shadow-sm text-blue-700 border border-blue-200' : 'text-gray-500 hover:bg-gray-100'}`}
+            >
+                <Globe size={16} />
+                ImanKatolik
+            </button>
+        </div>
+
+        {/* Content Area */}
+        <div className="relative min-h-[500px] bg-white">
+            
+            {viewMode === 'APP' && (
+                <div className="p-6 md:p-10 animate-in fade-in zoom-in duration-300">
+                    <div className="text-center space-y-4 mb-8">
+                        <BookOpen className={`mx-auto w-10 h-10 ${theme.icon} mb-4 opacity-80`} />
+                        <blockquote className="text-xl md:text-2xl font-serif text-gray-800 leading-relaxed italic">
+                            "{liturgicalData.quote}"
+                        </blockquote>
+                    </div>
+
+                    <div className="grid md:grid-cols-1 gap-6">
+                        <div className="bg-gray-50 rounded-xl p-6 border border-gray-100 relative overflow-hidden group">
+                            <div className={`absolute top-0 left-0 w-1.5 h-full ${theme.bg.replace('bg-', 'bg-')} ${theme.text.replace('text-', 'bg-')} opacity-60`}></div>
+                            <h3 className="flex items-center gap-2 text-xs font-bold text-gray-500 uppercase tracking-wider mb-3">
+                                <MessageCircle size={16} /> Refleksi Siswa
+                            </h3>
+                            <p className="text-gray-700 leading-relaxed text-base">
+                                {liturgicalData.refleksi}
+                            </p>
+                        </div>
+
+                        <div className="bg-white rounded-xl p-6 border-2 border-dashed border-gray-100 text-center">
+                            <div className={`inline-flex items-center justify-center p-2 rounded-full ${theme.bg} ${theme.text} mb-3`}>
+                                <Heart size={20} className="fill-current" />
+                            </div>
+                            <h3 className="text-xs font-bold text-gray-400 uppercase tracking-widest mb-2">Doa Singkat</h3>
+                            <p className="text-gray-600 font-serif text-lg">
+                                "{liturgicalData.doa}"
+                            </p>
+                        </div>
+                    </div>
+                    <MorningPrayer />
+                </div>
+            )}
+
+            {viewMode === 'VATICAN' && (
+                <VaticanNewsSection currentDate={currentDate} />
+            )}
+
+            {viewMode === 'WEB' && (
+                <div className="w-full h-[800px] animate-in slide-in-from-right duration-300 bg-gray-100 flex flex-col">
+                     <div className="bg-blue-50 p-3 text-xs text-center text-blue-600 border-b border-blue-100 flex items-center justify-center gap-2">
+                        <Globe size={14}/> Memuat data resmi dari server ImanKatolik.or.id...
+                    </div>
+                    <iframe
+                        src="https://www.imankatolik.or.id/kalender.php"
+                        className="w-full h-full border-0"
+                        loading="lazy"
+                        title="Kalender Liturgi Gereja Katolik"
+                        sandbox="allow-scripts allow-same-origin allow-forms"
+                    />
+                </div>
+            )}
+        </div>
+
+        {/* Footer */}
+        <div className="bg-gray-50 p-4 text-center text-[10px] text-gray-400 border-t border-gray-100 uppercase tracking-wide">
+          Liturgia Sekolah • {liturgicalData.extraInfo} • © Vatican News Data Included
+        </div>
+      </div>
+    </div>
+  );
+}
